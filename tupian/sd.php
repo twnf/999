@@ -15,7 +15,7 @@
 		"name": "软件更新",
 		"list": [{
 			"name": "软件更新",
-			"url": " ",
+			"url": "https://ghproxy.net/https://github.com/twnf/999/blob/main/tupian/Twnf.apk",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/gengxin.png",
 			"version": "软件更新"
 		}, {
