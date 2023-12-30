@@ -17,14 +17,14 @@
 			"name": "软件更新",
 			"url": " ",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/gengxin.png",
-			"version": "注意 需要更新时再点"
+			"version": "软件更新"
 		}, {
 			"name": "联系客服",
 			"url": "",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/kefu.jpg",
 			"version": "Twnf"
 		}, {
-			"name": "扫码打赏",
+			"name": "VX扫码打赏",
 			"url": "",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/zanshang.jpg",
 			"version": "Twnf"
