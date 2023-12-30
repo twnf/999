@@ -12,22 +12,22 @@
 			"version": "Twnf"
 		}]
 	}, {
-		"name": "推荐1",
+		"name": "软件更新",
 		"list": [{
-			"name": "Twnf",
+			"name": "软件更新",
 			"url": "",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/gengxin.png",
-			"version": "软件更新"
+			"version": "注意 需要更新时再点"
 		}, {
-			"name": "Twnf",
+			"name": "联系客服",
 			"url": "",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/kefu.jpg",
-			"version": "联系客服"
+			"version": "Twnf"
 		}, {
-			"name": "Twnf",
+			"name": "扫码打赏",
 			"url": "",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/zanshang.jpg",
-			"version": "扫码打赏"
+			"version": "Twnf"
 		}]
 	}
 		]
