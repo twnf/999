@@ -15,7 +15,7 @@
 		"name": "软件更新",
 		"list": [{
 			"name": "软件更新",
-			"url": "",
+			"url": " ",
 			"icon": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/gengxin.png",
 			"version": "注意 需要更新时再点"
 		}, {
