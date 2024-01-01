@@ -723,15 +723,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/高中课堂.json"
-    },
-    {
-      "key": "fan",
-      "name": "Twnf祝您观影愉快!",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     }
   ],
  "parses": [
