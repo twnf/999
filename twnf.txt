@@ -1,6 +1,6 @@
 测试,#genre#
 河北农民高清,http://www.fuxiaopang.work:8866/udp/239.253.92.176:6006
-
+河北农民,http://27.191.170.26:7000/rtp/239.254.200.23:6000
 央视频道,#genre#
 
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
