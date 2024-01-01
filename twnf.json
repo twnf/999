@@ -3,13 +3,23 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "Twnf祝您观影愉快!",
+      "name": "愿你看的每一部电影都能触及你的灵魂",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+      "key": "fan",
+      "name": "更新时间：2024.1.1",
+      "type": 3,
+      "api": "csp_fan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    }
+    ,
 
     {
       "key": "应用商店",
