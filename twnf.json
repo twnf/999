@@ -71,7 +71,7 @@
 
     {"key":"横版影院","name":"🐞短剧1┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
     {"key":"csp_AppYsV2_Mxone","name":"🐞短剧2┃短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
-   
+    {"key": "种子短剧","name": "🐞短剧3┃短剧","type": 1,"api": "http://zzdj.cc/api.php/provide/vod"},
 
 
 
