@@ -1,11 +1,11 @@
 河北,#genre#
 农民频道,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1704091025&k=7655580eb2406a793bfd8e93de9ec0f9
-河北卫视，https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1704091523&k=30911fe842d33c6612816e40dc090fc8
-经济生活，https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1704091291&k=39cd6ffc5f70b804c9daea7886ac7fc1
-河北都市，https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1704091359&k=b2a0b2fb4b93cc90ce2f68d7d179cc5d
-河北影视剧，https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1704091428&k=ca1bc4b3dba5ac16488c95bb26a1f91c
-少儿科技，https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1704091456&k=525738d05bf6a0e6fdadc1c4234eead9
-河北公共，https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1704091486&k=7e6ad76f4dedc836d82a48d69fa335d5
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1704091523&k=30911fe842d33c6612816e40dc090fc8
+经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1704091291&k=39cd6ffc5f70b804c9daea7886ac7fc1
+河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1704091359&k=b2a0b2fb4b93cc90ce2f68d7d179cc5d
+河北影视剧,https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1704091428&k=ca1bc4b3dba5ac16488c95bb26a1f91c
+少儿科技,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1704091456&k=525738d05bf6a0e6fdadc1c4234eead9
+河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1704091486&k=7e6ad76f4dedc836d82a48d69fa335d5
 
 
 
