@@ -1,5 +1,13 @@
 河北,#genre#
-「河北」河北农民,http://121.24.98.251:8090/hls/27/index.m3u8
+河北农民1,http://121.24.98.251:8090/hls/27/index.m3u8
+河北农民2,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
+河北农民3,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+河北农民4,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13004/index.m3u8
+河北农民5,http://111.225.92.130:8800/hls/23/index.m3u8
+河北农民6,http://121.27.126.41:808/hls/29/index.m3u8
+河北农民7,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13004/index.m3u8
+河北农民8,http://202302020000.iptv.z-link.cn:8800/tsfile/live/1010_1.m3u8
+河北农民9,http://120.8.135.86:10010/hls/47/index.m3u8
 「河北」河北都市,http://121.24.98.251:8090/hls/28/index.m3u8
 「河北」河北影视,http://121.24.98.251:8090/hls/29/index.m3u8
 「河北」昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
