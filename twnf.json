@@ -723,7 +723,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/高中课堂.json"
-    }
+    },
+{"key": "api.apilyzy.com","name": "--------","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "lbapi9.com","name": "--------","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "msnii.com","name": "--------","type": 0,"api": "https://www.msnii.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "kxgav.com","name": "--------","type": 0,"api": "https://www.kxgav.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "gdlsp.com","name": "--------","type": 0,"api": "https://www.gdlsp.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "api.maozyapi.com","name": "--------","type": 1,"api": "https://api.maozyapi.com/inc/apijson_vod.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "feifei67.com","name": "--------","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1}
+  
   ],
  "parses": [
     {
