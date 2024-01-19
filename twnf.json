@@ -1,10 +1,10 @@
 {
-  "spider": "./pg.jar;md5;711ab2f193083d2814783c3271a2da9b",
+  "spider": "./twnf.jar;md5;711ab2f193083d2814783c3271a2da9b",
   "lives": [
     {
       "name": "初秋语",
       "type": 0,
-      "url": "./lib/list.txt",
+      "url": "./lib/twnf.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
