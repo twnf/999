@@ -94,6 +94,15 @@
       "quickSearch": 0,
       "changeable": 0
     },
+        {
+      "key": "csp_CandyMuj_qiqiyy",
+      "name": "💖琪琪影院",
+      "type": 3,
+      "api": "csp_CandyMuj_qiqiyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
