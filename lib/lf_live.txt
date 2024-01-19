@@ -24,7 +24,7 @@ https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 https://xhdwc.tk/tvlive.txt
 #俊于•综合
 http://home.jundie.top:81/Cat/tv/live.txt
-#初秋语•电台
+#Twnf•电台
 ../radio.txt
 #范明明•电台
 https://fongmi.cachefly.net/fanmingming/live/main/radio/m3u/index.m3u
@@ -41,3 +41,4 @@ https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt
 #YuanHsing•油管
 https://fongmi.cachefly.net/YuanHsing/YouTube_to_m3u/main/youtube.m3u
 #测试
+../福利直播.txt
