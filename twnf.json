@@ -22,6 +22,16 @@
       "api": "./lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"
     },
+        {
+      "key": "应用商店",
+      "name": "客服",
+      "type": 3,
+      "jar": "./lib/sd.jar;md5;25abba0f454c45a26f6ab8a37a5fd685",
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/tupian/sd.php"
+    },
     {
       "key": "drpy_js_360影视",
       "name": "官源 | 360",
