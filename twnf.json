@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/custom_spider.jar;md5;770a64d7528f1c45c19fa9ca0adab5a0",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/custom_spider.jar",
   "sites": [
       {
       "key": "drpy_js_豆瓣",
