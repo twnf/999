@@ -15,16 +15,9 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人.js"
     },
-    {
-      "key": "drpy_js_大豆",
-      "name": "有问题请及时反馈",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"
-    },
         {
       "key": "应用商店",
-      "name": "客服",
+      "name": "有问题及时反馈",
       "type": 3,
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/sd.jar;md5;25abba0f454c45a26f6ab8a37a5fd685",
       "api": "csp_Market",
@@ -547,7 +540,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"
     },
     {"key":"横版影院","name":"📦聚合 | 短剧1","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-    {"key":"csp_AppYsV2_Mxone","name":"📦聚合 | 短剧2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
     {
       "key": "drpy_js_酷6网",
       "name": "📦聚合 | 酷6网",
