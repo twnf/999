@@ -549,7 +549,7 @@
     },
     {
       "key": "drpy_js_网易公版影像",
-      "name": "📦聚合 | 网易公版影像",
+      "name": "📦聚合 | 网易影像",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
@@ -734,6 +734,19 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
+    },    {
+      "key": "lf_js_lf_live",
+      "name": "🔴直播 | 电视合集",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/lf_live_min.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/lf_live.txt"
     },
     {
       "key": "drpy_js_JRKAN直播",
@@ -1225,19 +1238,6 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
-    },    {
-      "key": "lf_js_lf_live",
-      "name": "🔴测试 | 直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/lf_live_min.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/lf_live.txt"
     }
   ],
   "lives": [
@@ -1328,11 +1328,7 @@
     }
   ],
    "parses": [
-  {
-      "name": "Twnf聚合解析",
-      "type": 3,
-      "url": "Demo"
-    },
+
     {
       "name": "解析失败请切换其他",
       "type": 0,
