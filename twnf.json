@@ -1241,16 +1241,16 @@
     },
 
     
-{"key": "wmcj8.com","name": "🚫调试 | 请勿点击","type": 0,"api": "http://wmcj8.com/inc/sapi.php","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "mygzycj.com","name": "🚫调试 | 请勿点击","type": 0,"api": "http://mygzycj.com/api.php?ac=list","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "99zywcj.com","name": "🚫调试 | 请勿点击","type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "api.11bat.com","name": "🚫调试 | 请勿点击","type": 0,"api": "http://api.11bat.com/api.php/provide/vod/at/xml","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "caiji.huakuiapi.com","name": "🚫调试 | 请勿点击","type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "kxgav.com","name": "🚫调试 | 请勿点击","type": 0,"api": "https://www.kxgav.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "msnii.com","name": "🚫调试 | 请勿点击","type": 0,"api": "https://www.msnii.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "lbapi9.com","name": "🚫调试 | 请勿点击","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "xrbsp.com","name": "🚫调试 | 请勿点击","type": 0,"api": "https://www.xrbsp.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "api.apilyzy.com","name": "🚫调试 | 请勿点击1","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1}
+{"key": "wmcj8.com","name": "🚫调试1 | 请勿点击","type": 0,"api": "http://wmcj8.com/inc/sapi.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "mygzycj.com","name": "🚫调试2 | 请勿点击","type": 0,"api": "http://mygzycj.com/api.php?ac=list","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "99zywcj.com","name": "🚫调试3 | 请勿点击","type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "api.11bat.com","name": "🚫调试4 | 请勿点击","type": 0,"api": "http://api.11bat.com/api.php/provide/vod/at/xml","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "caiji.huakuiapi.com","name": "🚫调试5 | 请勿点击","type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "kxgav.com","name": "🚫调试6 | 请勿点击","type": 0,"api": "https://www.kxgav.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "msnii.com","name": "🚫调试7 | 请勿点击","type": 0,"api": "https://www.msnii.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "lbapi9.com","name": "🚫调试8 | 请勿点击","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "xrbsp.com","name": "🚫调试9 | 请勿点击","type": 0,"api": "https://www.xrbsp.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "api.apilyzy.com","name": "🚫调试10 | 请勿点击","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1}
 
 
     
