@@ -3,14 +3,14 @@
   "sites": [
       {
       "key": "drpy_js_豆瓣",
-      "name": "愿世间美好与你环环相扣",
+      "name": "希望开心和好运与你撞个满怀！",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy.js"
     },
     {
       "key": "drpy_js_人人",
-      "name": "2024.1.20更新",
+      "name": "2024.1.22更新",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人.js"
