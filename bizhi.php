@@ -1,6 +1,5 @@
 <?php
-$img_array = glob("photos/*.{gif,jpg,png}",GLOB_BARACE);
+$img_array = glob("./photos/*.gif,jpg,png}",GLOB BRACE);
 $img = array_rand($img_array);
-$dz = $img_array[$img];
-header("Location:".$dz);
+header("location:.$img array[$img]");
 ?>
