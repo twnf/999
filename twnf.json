@@ -74,6 +74,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },
+
     {
       "key": "drpy_js_爱看机器人",
       "name": "👓爱看 | 机器",
@@ -152,13 +153,6 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$自己去注册$$$qq112233"
     },
     {
-      "key": "drpy_js_我的哔哩",
-      "name": "✅B站 | 合集",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"
-    },
-    {
       "key": "AList",
       "name": "🌐网盘 | Alist",
       "type": 3,
@@ -181,6 +175,34 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.hdmyy.com/"
+    },
+    {
+      "key": "南瓜",
+      "name": "🎬影视 | 南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "77",
+      "name": "🎬影视 | 七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "一起看 ",
+      "name": "🎬影视 | 一起看",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "drpy_js_低端",
@@ -533,6 +555,13 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
     {
+      "key": "drpy_js_我的哔哩",
+      "name": "✅B站 | 合集",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"
+    },
+    {
       "key": "drpy_js_短视频",
       "name": "📦聚合 | 短视频",
       "type": 3,
@@ -540,7 +569,19 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"
     },
     {"key":"横版影院","name":"📦聚合 | 短剧1","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-
+    {
+      "key": "短剧one",
+      "name": "📦聚合 | 短剧2",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
+    },
+    {
+      "key": "种子短剧",
+      "name": "📦聚合 | 短剧3",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
     
     {
       "key": "drpy_js_酷6网",
