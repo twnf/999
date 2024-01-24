@@ -7,7 +7,8 @@
 以/开头，存储卡的根目录
 
 
-
+#Twnf•直播
+https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/twnf.txt
 #YanG•综合
 https://fongmi.cachefly.net/YanG-1989/m3u/main/Gather.m3u
 #范明明•ipv6
@@ -36,5 +37,3 @@ https://fongmi.cachefly.net/YanG-1989/m3u/main/ya.m3u
 https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt
 #YuanHsing•油管
 https://fongmi.cachefly.net/YuanHsing/YouTube_to_m3u/main/youtube.m3u
-#Twnf•测试
-https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/福利直播.txt
