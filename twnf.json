@@ -83,6 +83,15 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
     },
     {
+            "key": "TVB云播",
+            "name": "🎬影视 | TVB云播",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/TVB.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/TVB云播.js"
+    },
+    {
       "key": "Xinsj",
       "name": "🎬影视 | 新视觉",
       "type": 3,
@@ -543,7 +552,7 @@
     {"key":"横版影院","name":"📦聚合 | 短剧1","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
     {
       "key": "种子短剧",
-      "name": "📦聚合 | 短剧3",
+      "name": "📦聚合 | 短剧2",
       "type": 1,
       "api": "http://zzdj.cc/api.php/provide/vod"
     },
