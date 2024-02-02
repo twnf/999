@@ -118,16 +118,7 @@
       "filterable": 1,
       "api": "https://ys.zf520.cn/api.php/provide/vod/"
     },
-    {
-"key": "csp_xBPQ_抖",
-"name": "🎬影视 | 抖剧",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/斗剧.json"
-    },
+
     {
       "key": "drpy_js_低端",
       "name": "🎬影视 | 低端",
