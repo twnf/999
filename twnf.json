@@ -91,15 +91,14 @@
             "changeable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/TVB云播.js"
     },
-    {
-      "key": "Xinsj",
-      "name": "🎬影视 | 新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
+   {
+            "key": "咕噜[V2]",
+            "name": "🎬影视 | 咕噜",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/TVB.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/咕噜[V2].js"
     },
     {
       "key": "drpy_js_低端",
@@ -115,62 +114,9 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
     },
-    {
-      "key": "drpy_js_九酷",
-      "name": "🎬影视 | 九酷",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/九酷.js"
-    },
-    {
-      "key": "drpy_js_l0l",
-      "name": "🎬影视 | l0l",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/l0l.js"
-    },
-    {
-      "key": "drpy_js_网飞.TV",
-      "name": "🎬影视 | 网飞.TV",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
-    },
-    {
-      "key": "drpy_js_乐猪TV",
-      "name": "🎬影视 | 乐猪TV",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/乐猪TV.js"
-    },
-    {
-      "key": "drpy_js_六度TV",
-      "name": "🎬影视 | 六度TV",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六度TV.js"
-    },
-    {
-      "key": "drpy_js_花猫TV",
-      "name": "🎬影视 | 花猫TV",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/花猫TV.js"
-    },
-    {
-      "key": "drpy_js_TV云播",
-      "name": "🎬影视 | TV云播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/tva云播.js"
-    },
-    {
-      "key": "drpy_js_真不卡",
-      "name": "🎬影视 | 真不卡",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/真不卡.js"
-    },
+
+
+
     {
       "key": "drpy_js_新片场",
       "name": "🎬影视 | 新片场",
@@ -186,67 +132,11 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/皮皮鸭.js"
     },
     {
-      "key": "drpy_js_慢大浪",
-      "name": "🎬影视 | 慢大浪",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/慢大浪.js"
-    },
-    {
-      "key": "drpy_js_看看屋",
-      "name": "🎬影视 | 看看屋",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看看屋.js"
-    },
-    {
-      "key": "drpy_js_哔哩兔",
-      "name": "🎬影视 | 哔哩兔",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩兔.js"
-    },
-    {
-      "key": "drpy_js_追剧兔",
-      "name": "🎬影视 | 追剧兔",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧兔.js"
-    },
-    {
-      "key": "drpy_js_影渣渣",
-      "name": "🎬影视 | 影渣渣",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
-    },
-    {
-      "key": "drpy_js_柒之社",
-      "name": "🎬影视 | 柒之社",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/柒之社.js"
-    },
-    {
       "key": "drpy_js_免费看",
       "name": "🎬影视 | 免费看",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
-    },
-    {
-      "key": "drpy_js_小猫咪",
-      "name": "🎬影视 | 小猫咪",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小猫咪.js"
-    },
-    {
-      "key": "drpy_js_看韩剧",
-      "name": "🎬影视 | 看韩剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看韩剧.js"
     },
     {
       "key": "drpy_js_追剧迷",
@@ -256,25 +146,11 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
     },
     {
-      "key": "drpy_js_91free",
-      "name": "🎬影视 | 91free",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/91free.js"
-    },
-    {
       "key": "drpy_js_LIBVIO",
       "name": "🎬影视 | LIBVIO",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
-    },
-    {
-      "key": "drpy_js_HDmoli",
-      "name": "🎬影视 | HDmoli",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
     },
     {
       "key": "drpy_js_Voflix",
@@ -284,25 +160,11 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
     },
     {
-      "key": "drpy_js_UM电影",
-      "name": "🎬影视 | UM电影",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/UM电影.js"
-    },
-    {
       "key": "drpy_js_开眼视频",
       "name": "🎬影视 | 开眼视频",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/开眼视频.js"
-    },
-    {
-      "key": "drpy_js_豆巴影视",
-      "name": "🎬影视 | 豆巴影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/豆巴影视.js"
     },
     {
       "key": "drpy_js_米爱影视",
@@ -311,27 +173,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
     },
-    {
-      "key": "drpy_js_星空影视",
-      "name": "🎬影视 | 星空影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/星空影视.js"
-    },
-    {
-      "key": "drpy_js_秋霞影视",
-      "name": "🎬影视 | 秋霞影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞影视.js"
-    },
-    {
-      "key": "drpy_js_无名小站",
-      "name": "🎬影视 | 无名小站",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/无名小站.js"
-    },
+
     {
       "key": "drpy_js_小狗影院",
       "name": "🎬影视 | 小狗影院",
@@ -339,13 +181,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
     },
-    {
-      "key": "drpy_js_酷客影院",
-      "name": "🎬影视 | 酷客影院",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"
-    },
+
     {
       "key": "drpy_js_奇优影院",
       "name": "🎬影视 | 奇优影院",
@@ -360,20 +196,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/厂长资源.js"
     },
-    {
-      "key": "drpy_js_在线之家",
-      "name": "🎬影视 | 在线之家",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"
-    },
-    {
-      "key": "drpy_js_饭团电影",
-      "name": "🎬影视 | 饭团电影",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/饭团影视.js"
-    },
+
     {
       "key": "drpy_js_酷云七七",
       "name": "🎬影视 | 酷云七七",
@@ -381,20 +204,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
     },
-    {
-      "key": "drpy_js_骚火电影",
-      "name": "🎬影视 | 骚火电影",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/骚火.js"
-    },
-    {
-      "key": "drpy_js_闪影影院",
-      "name": "🎬影视 | 闪影影院",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/闪影影院.js"
-    },
+
     {
       "key": "drpy_js_电影先生",
       "name": "🎬影视 | 电影先生",
@@ -402,13 +212,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"
     },
-    {
-      "key": "drpy_js_冷曦影视",
-      "name": "🎬影视 | 冷曦影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/冷曦影视.js"
-    },
+
     {
       "key": "drpy_js_秋霞影院",
       "name": "🎬影视 | 秋霞影院",
