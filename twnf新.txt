@@ -3,9 +3,9 @@
 河北农民1,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
 河北农民2,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
 
-河北都市,http://121.24.98.251:8090/hls/28/index.m3u8
+河北都市,http://121.24.98.251:8090/hls/28/index.m3u8?zhebd
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
-河北影视,http://121.24.98.251:8090/hls/29/index.m3u8
+河北影视,http://121.24.98.251:8090/hls/29/index.m3u8?zhebd
 河北影视,https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
 少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
 河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
@@ -950,8 +950,8 @@ EZTV6台全网,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=166081467
 
 
 凤凰频道🔶测试,#genre#
-凤凰卫视中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8
-凤凰卫视资讯台,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+凤凰卫视中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8?zhebd
+凤凰卫视资讯台,https://edge1.laotv.la/live/PhoenixNews/index.m3u8?zhebd
 
 
 
