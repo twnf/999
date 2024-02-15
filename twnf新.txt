@@ -1,3 +1,17 @@
+
+
+🔶Twnf🔶,#genre#
+🔶公  告🔶,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
+观看IPV6频道,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504#https://pi.0472.org/tv/asam.php?auth=231110
+需支持IPV6网络,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504#https://pi.0472.org/tv/asam.php?auth=231110
+=============,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
+↓↓ 网络检测 ↓↓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+IPV6网络检测,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+↑↑ 网络检测 ↑↑,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+==============,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
+如果播放正常,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
+说明网络支持,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
+
 河北频道🔶农民,#genre#
 河北农民1,http://111.225.93.228:33333/hls/24/index.m3u8
 河北农民2,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
