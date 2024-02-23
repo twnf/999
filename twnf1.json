@@ -1,6 +1,13 @@
 {
   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/custom_spider.jar;md5;770a64d7528f1c45c19fa9ca0adab5a0",
   "sites": [
+{
+      "key": "drpy_js_豆瓣",
+      "name": "调试专用接口",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy.js"
+    },
 {"key": "wmcj8.com","name": "🚫调试1","type": 0,"api": "http://wmcj8.com/inc/sapi.php","quickSearch": 1,"searchable": 1,"filterable": 1},
 {"key": "mygzycj.com","name": "🚫调试2","type": 0,"api": "http://mygzycj.com/api.php?ac=list","quickSearch": 1,"searchable": 1,"filterable": 1},
 {"key": "99zywcj.com","name": "🚫调试3","type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist","quickSearch": 1,"searchable": 1,"filterable": 1},
