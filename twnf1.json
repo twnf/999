@@ -20,7 +20,7 @@
 {"key": "*老鸭资源","name": "🚫调试17","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key": "老鸭2","name": "🚫调试18","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "json:https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "*番号资源","name": "🚫调试19","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
-{"key":"❤探探资源","name":"🚫调试20","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"❤探探资源","name":"🚫调试20","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
 
 
 
