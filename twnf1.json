@@ -10,11 +10,23 @@
 {"key": "msnii.com","name": "🚫调试7 | 请勿点击","type": 0,"api": "https://www.msnii.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
 {"key": "lbapi9.com","name": "🚫调试8 | 请勿点击","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
 {"key": "xrbsp.com","name": "🚫调试9 | 请勿点击","type": 0,"api": "https://www.xrbsp.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "api.apilyzy.com","name": "🚫调试10 | 请勿点击","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1}
+{"key": "api.apilyzy.com","name": "🚫调试10 | 请勿点击","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
+{"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key": "美少女","name": "*🔞美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
+{"key": "*色猫资源","name": "*🔞色猫资源","type": 1,"api": "https://api.maozyapi.com/inc/apijson_vod.php","searchable": 0,"quickSearch": 0},
+{"key": "*香奶儿资源","name": "*🔞香奶儿资源","type": 0,"api": "https://www.gdlsp.com/api/xml.php","searchable": 0,"quickSearch": 0},   
+{"key": "*白嫖资源","name": "*🔞白嫖资源","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 0,"quickSearch": 0},
+{"key": "*大地资源","name": "*🔞大地资源","type": 0,"api": "https://dadiapi.com/api.php","searchable": 0,"quickSearch": 0},
+{"key": "*老鸭资源","name": "*🔞老鸭资源","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+{"key": "老鸭2","name": "*🔞老鸭2","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "json:https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "*番号资源","name": "*🔞番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 
 
 
-    
+
+
+
+
 
     
   ],
