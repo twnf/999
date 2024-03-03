@@ -252,7 +252,12 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
 
 地方频道🔶河北,#genre#
-
+保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+定州新闻,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+定州生活,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+定州影院,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 河北都市,http://121.24.98.251:8090/hls/28/index.m3u8
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北影视,http://121.24.98.251:8090/hls/29/index.m3u8?zhebd
@@ -2776,7 +2781,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8	
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8	
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4	
-
+春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
 
 
