@@ -3,14 +3,14 @@
   "sites": [
       {
       "key": "drpy_js_豆瓣",
-      "name": "祝大家新年快乐 龙年行大运！",
+      "name": "Twnf",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy.js"
     },
     {
       "key": "drpy_js_人人",
-      "name": "2024.2.2更新",
+      "name": "2024.3.7更新",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/twnf/999/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人.js"
@@ -272,97 +272,6 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "🔍阿里 ┃ 玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
-    },
-    {
-      "key": "csp_阿里七夜",
-      "name": "🔍阿里 ┃ 七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "csp_TuGou",
-      "name": "🔍阿里 ┃ 土狗",
-      "type": 3,
-      "api": "csp_TuGou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🔍阿里 ┃ PanS",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "Upyunso",
-      "name": "🔍阿里 ┃ 云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "Alips",
-      "name": "🔍阿里 ┃ 盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🔍阿里 ┃ 找片",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$自己去注册$$$qq112233"
-    },
-    {
-      "key": "AList",
-      "name": "🌐网盘 | Alist",
-      "type": 3,
-      "api": "csp_AList",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-    },
-    {
-      "key": "drpy_js_Alist",
-      "name": "🌐网盘 | Alist",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
-    },
-    {
-      "key": "drpy_js_我的哔哩",
-      "name": "✅B站 | 合集",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"
     },
     {
       "key": "drpy_js_短视频",
@@ -1077,8 +986,14 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
+    },
+  {
+      "key": "drpy_js_我的哔哩",
+      "name": "✅B站 | 合集",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"
     }
-
     
 
     
