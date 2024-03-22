@@ -281,34 +281,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"
     },
     {"key":"横版影院","name":"📦聚合 | 短剧1","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-    {
-      "key": "种子短剧",
-      "name": "📦聚合 | 短剧2",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
-     {
-            "key": "T4-duanju",
-            "name": "📦聚合 | 短剧3",
-            "type": 4,
-            "api": "https://catbox.n13.club/duanju.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-}, 
-    {
-      "key": "csp_XYQHiker_榜一短剧",
-      "name": "📦聚合 | 短剧4",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/sft/Hk/XYQHiker/榜一短剧.json",
-      "jar": "https://d.kstore.space/download/5376/jar/Hk.jar"
-    },
+   
     {
       "key": "drpy_js_酷6网",
       "name": "📦聚合 | 酷6网",
