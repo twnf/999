@@ -16,9 +16,9 @@ IPV6网络检测,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/i
 
 河北农民1,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
 河北农民2,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
-河北农民3,http://121.24.98.173:8090/hls/27/index.m3u8
+河北农民3,http://36.129.204.122:50001/hls/25/index.m3u8
 河北农民4,http://123.183.92.196:8800/hls/23/index.m3u8
-河北农民5,http://111.225.92.50:8800/hls/23/index.m3u8
+河北农民5,http://120.8.135.86:10010/hls/47/index.m3u8
 河北农民6,http://121.19.134.245:808/tsfile/live/1005_1.m3u8
 河北农民7,http://111.225.92.130:8800/hls/23/index.m3u8
 河北农民8,http://121.24.99.45:8090/hls/27/index.m3u8
