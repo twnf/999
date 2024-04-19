@@ -15,8 +15,11 @@ IPV6网络检测,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/i
 河北频道🔶农民,#genre#
 
 
-河北农民,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
-
+河北农民1,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
+河北农民2,http://121.19.134.142:808/tsfile/live/1005_1.m3u8
+河北农民3,http://111.11.98.205:9900/hls/24/index.m3u8
+河北农民4,http://111.224.83.68:1024/rtp/239.254.200.23:6000
+河北农民（组播）,http://pwd.unnas.top:4000/rtp/239.253.92.176:6006
 
 
 
@@ -252,6 +255,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
 
 地方频道🔶河北,#genre#
+晴彩河北,http://111.224.83.68:1024/rtp/239.254.200.27:6000
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
