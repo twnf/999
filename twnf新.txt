@@ -165,15 +165,16 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 
 🔶体育频道🔶,#genre#
-山东体育,http://113.128.128.46:8688/udp/239.21.1.58:5002#http://120.224.178.16:9901/tsfile/live/0111_1.m3u8#http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
-广东体育,http://jt.zorua.cn:8787/udp/239.77.0.112:5146
-安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 BRTV体育休闲,http://114.246.102.14:4000/rtp/239.3.1.243:8000
 维来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 五星体育,http://222.71.139.117:8001/udp/239.45.3.210:5140#http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 智林体育,http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
 麻辣体育,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227811/index.m3u8
+山东体育,http://113.128.128.46:8688/udp/239.21.1.58:5002#http://120.224.178.16:9901/tsfile/live/0111_1.m3u8#http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
+辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
+广东体育,http://jt.zorua.cn:8787/udp/239.77.0.112:5146
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+
 
 
 
