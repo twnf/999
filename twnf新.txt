@@ -4,7 +4,7 @@
 有问题及时反馈,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://113.98.122.166:9901/tsfile/live/1013_1.m3u8?key=txiptv
 微信：twnf99,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 
-宣传片,https://116-142-255-137.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-892/b47ba1e2/1840564592-0/b47ba1e2f1aff92e247fa869a63def7c/c-m34?v=5&t=1725794499&s=1725794499a82ff26ad1b480d5864866b50ecffe05&r=QWNDEV&bzc=1&bzs=1840564592&filename=%E5%AE%A3%E4%BC%A0%E7%89%87.mp4&x-mf-biz-cid=82828552-98ea-41e9-bc05-2678e08077b2-c4937c&auto_redirect=0&cache_type=1&xmfcid=d0c5d77c-44b1-4f13-85b8-8008a97f3ae1-1-cd8a62355
+
 
 
 
@@ -127,10 +127,10 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58#http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=689e494c226aa7038632a897aa3dbd27#rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=2510710360&k=6cdf3c059a496f8c8375f86e1fb53346
 河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3#http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=fa8a788d96df5d75e67186f6b6864b40#rtmp://tv.pull.hebtv.com/jishi/jingjishenghuo?t=2510710360&k=40e221dfe1145000d2b17dfbec914ce7
 
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1725711746&k=ad80a4af797371db27a92302e40ca309$冀时专线1
-河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38$冀时专线2
-河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee$冀时专线3
-河北农民,rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3$冀时专线4
+
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38$冀时专线1
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee$冀时专线2
+河北农民,rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3$冀时专线3
 河北农民,http://60.10.135.181:555/rtp/239.253.92.176:6006$Twnf测试1
 河北农民,http://120.0.52.155:4022/rtp/239.253.92.176:6006$Twnf测试2
 河北农民,http://itms.xznet.org:41097/rtp/239.254.200.23:6000$Twnf测试3
