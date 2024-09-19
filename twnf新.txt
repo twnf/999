@@ -3,7 +3,7 @@
 
 有问题及时反馈,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://113.98.122.166:9901/tsfile/live/1013_1.m3u8?key=txiptv
 微信：twnf99,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-宣传片测试,https://web.s12k.cn/uploads%2F2024%2F09%2F12%2F%E5%AE%A3%E4%BC%A0%E7%89%87.mp4
+
 
 
 
@@ -114,10 +114,9 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-凤凰中文,http://171.213.129.135:9999/udp/239.93.1.9:2192#http://ayolee.com:5253/udp/239.93.0.162:2192#http://210.210.155.35/uq2663/h/h157/index2.m3u8
-凤凰中文2,http://180.142.220.251:8181/tsfile/live/1083_1.m3u8#http://171.110.10.194:8181/tsfile/live/1083_1.m3u8
-凤凰香港,http://171.110.10.194:8181/tsfile/live/1084_1.m3u8
-凤凰资讯,http://222.217.247.208:8181/tsfile/live/1082_1.m3u8
+
+
+
 
 
 
@@ -196,6 +195,14 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 
 🔶新闻频道🔶,#genre#
+凤凰中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
+凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
+凤凰中文,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
+凤凰中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
+
+凤凰资讯,http://171.213.146.154:8818/udp/239.93.0.118:2191
 壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8#http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
