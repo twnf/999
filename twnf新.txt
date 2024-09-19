@@ -104,9 +104,13 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8#http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
+卡酷少儿,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bjkakuSD/__op/default/__f/1/a48k/index.m3u8$测试
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 江西少儿,http://jxcbn.ws-cdn.gitv.tv/hls/JXSE/index.m3u8?gMac=unknown&livodToken=3372ee
 金鹰卡通,http://106.42.108.200:2000/rtp/239.16.20.104:11040
+金鹰卡通,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWVmYmUyYTVmNjVlYTBjN2MzNDRhNGViOWUxM2Q5ZTZlJmVzPTE3MjY3NzgzMzcmdXVpZD1lYTkxODI2NmE4OGYyNTdiMjY2NDM1NDMwYzg0ZjZhNi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8$测试
+优漫卡通,https://1864317853.cloudvdn.com/a.m3u8?domain=litchinews-tv-hls.jstv.com&player=zw4AANhHNWNAqPYX&secondToken=secondToken%3A2rjkVDxKuWSO9la0pHqIAlHHe7Y&sign=f06ec03b0b8c7e0cd620214cca52292e&streamid=litchinews-tv%3Alitchinews-tv%2Fyoumankatong&t=66ec3502&v3=1$测试
+
 
 延边频道,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
@@ -130,11 +134,14 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38$冀时专线1
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee$冀时专线2
 河北农民,rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3$冀时专线3
+
 河北农民,http://60.10.135.181:555/rtp/239.253.92.176:6006$Twnf测试1
 河北农民,http://120.0.52.155:4022/rtp/239.253.92.176:6006$Twnf测试2
 河北农民,http://itms.xznet.org:41097/rtp/239.254.200.23:6000$Twnf测试3
 河北农民,http://60.10.225.157:555/rtp/239.253.92.176:6006$Twnf测试4
 河北农民,http://60.7.56.50:4000/rtp/239.253.92.176:6006$Twnf测试5
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao-575496303.ts?ctyun_app=jishi&ctyun_stream=nongminpindao&ctyun_rate=0.000&ctyun_starttime=1726707731113$Twnf测试6
+
 
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af#http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=82fa2120c1c91f181bbdf82de498faad#rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18
 河北影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c#http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=2510710360&k=acc030f5a46fa7ec8a6794ce0f3bee42#rtmp://tv.pull.hebtv.com/jishi/yingshijupindao?t=2510710360&k=51b17a5611b40e6a36395d0129c85ec6
@@ -195,14 +202,21 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 
 🔶新闻频道🔶,#genre#
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$Twnf测试
 凤凰中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
 凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
 凤凰中文,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
 凤凰中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
-凤凰中文测试,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+
+
+
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8$Twnf测试
 凤凰资讯,http://171.213.146.154:8818/udp/239.93.0.118:2191
+
+凤凰卫视香港http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8$Twnf测试
+
 壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8#http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
