@@ -201,7 +201,7 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 凤凰中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
-
+凤凰中文测试,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://171.213.146.154:8818/udp/239.93.0.118:2191
 壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8#http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
