@@ -1,5 +1,5 @@
 🔶Twnf🔶,#genre#
-🔶Twnf🔶,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
+欢迎收看Twnf直播,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
 
 有问题及时反馈,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://113.98.122.166:9901/tsfile/live/1013_1.m3u8?key=txiptv
 微信：twnf99,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38$冀时专线1
@@ -130,6 +130,68 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+
+
+
+
+
+
+
+🔶数字电视🔶,#genre#
+
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+未知卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+泰剧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+
+爱谍战,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱动漫,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱科幻,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱科学,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱浪漫,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱历史,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱旅行,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱奇谈,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱赛车,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱体育,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱玩具,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱喜剧,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱悬疑,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱幼教,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+爱院线,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+
+
+求索生活,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+求索动物,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+求索记录,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+求索科学,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000011/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
+
 
 
 
@@ -306,60 +368,7 @@ BRTV体育休闲,http://114.246.102.14:4000/rtp/239.3.1.243:8000
 
 
 
-🔶数字电视🔶,#genre#
 
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-未知卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-泰剧剧场 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-农业致富 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-纪实人文 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-东北热剧 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-黑莓电影 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-新闻综合 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-
-爱谍战,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱动漫,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱科幻,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱科学,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱浪漫,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱历史,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱旅行,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱奇谈,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱赛车,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱体育,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱玩具,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱喜剧,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱悬疑,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱幼教,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-爱院线,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-
-
-求索生活,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-求索动物,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-求索记录,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
-求索科学,http://zqhswlive.itv.cmvideo.cn/000000001000/2000000004000000011/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=4&AuthInfo=JVTQE2V417UJEJ%2BQEyqkJKH4NghzQyKkj9WSEqSx2JUX4W08E0tX%2B1jdEuQbkbVfP0%2BQVS1eLxxH%2B1%2F3Kt9dlQ%3D%3D
 
 
 
@@ -1070,7 +1079,7 @@ CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 
 
 
-🔶经典怀旧🔶,#genre#
+🔶怀旧电影🔶,#genre#
 
 51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
 巴黎圣母院,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
