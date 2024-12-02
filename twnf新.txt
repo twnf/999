@@ -2,7 +2,7 @@
 欢迎收看Twnf直播,https://jihulab.com/twnf/999/-/raw/main/xinnian.mp4
 
 有问题及时反馈,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://113.98.122.166:9901/tsfile/live/1013_1.m3u8?key=txiptv
-微信：twnf99,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38$冀时专线1
+微信：twnf99,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$twnf
 
 
 
@@ -11,11 +11,24 @@
 
 
 🔶央视频道🔶,#genre#
+
+CCTV-4K超高清,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
+CCTV-8K超高清,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1$twnf
+
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
+
+CCTV1-4K,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$twnf
+
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+
+CCTV3-4K,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1$twnf
+
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+
+CCTV5-4K,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1$twnf
+
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8#http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8#http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
 CCTV-7军事·农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
@@ -28,7 +41,12 @@ CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/inde
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15音乐,http://84a6b2ef5c657f63-web.olt.sczhgx.com:8999/hls/15/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+
+CCTV16-4K,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
+
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+北京纪实科教-8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
 
 
 CCTV-电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
@@ -201,76 +219,47 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 🔶地方频道🔶,#genre#
 
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58#http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=689e494c226aa7038632a897aa3dbd27#rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=2510710360&k=6cdf3c059a496f8c8375f86e1fb53346
-河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3#http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=fa8a788d96df5d75e67186f6b6864b40#rtmp://tv.pull.hebtv.com/jishi/jingjishenghuo?t=2510710360&k=40e221dfe1145000d2b17dfbec914ce7
 
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1731511421&k=0c63f808d4129ea42ff6888a3a1635fb$官方线路
-河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38$冀时专线1
-河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee$冀时专线2
-河北农民,rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3$冀时专线3
+石家庄新,http://pluslive1.sjzntv.cn/xmzh/HD/live.m3u8$官方源
+石家庄娱,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8$官方源
+石家庄生,http://pluslive1.sjzntv.cn/shenghuo/HD3/live.m3u8$官方源
+石家庄都,http://pluslive1.sjzntv.cn/dushi/HD4/live.m3u8$官方源
+鹿泉综合,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8$官方源
+鹿泉二套,https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8$官方源
+深泽电视,https://jwcdnqx.hebyun.com.cn/live/shenzedianshi/1500k/tzwj_video.m3u8$官方源
+赞皇电视,http://p2bj.vzan.com/slowlive/435455898015647946/live.m3u8
+赵县电视,http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8$官方源
+邯郸新闻,http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8$官方源
+邯郸科技,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8$官方源
+邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8$官方源
+成安综艺,https://jwcdnqx.hebyun.com.cn/live/JYCA1/1500k/tzwj_video.m3u8$官方源
+邱县一套,http://live.hd.hdbs.cn/video/s10013-qxds1/index.m3u8$官方源
+邱县二套,http://live.hd.hdbs.cn/video/s10013-qxds2/index.m3u8$官方源
+涉县新闻,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8$官方源
+滦南综合,ttp://tvnew.lnshw.com.cn:58123/live/mhllle.m3u8$官方源
+承德平泉,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8$官方源
+保定定州,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8$官方源
 
-河北农民,http://60.10.135.181:555/rtp/239.253.92.176:6006$Twnf测试1
-河北农民,http://120.0.52.155:4022/rtp/239.253.92.176:6006$Twnf测试2
-河北农民,http://itms.xznet.org:41097/rtp/239.254.200.23:6000$Twnf测试3
-河北农民,http://60.10.225.157:555/rtp/239.253.92.176:6006$Twnf测试4
-河北农民,http://60.7.56.50:4000/rtp/239.253.92.176:6006$Twnf测试5
-河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao-575496303.ts?ctyun_app=jishi&ctyun_stream=nongminpindao&ctyun_rate=0.000&ctyun_starttime=1726707731113$Twnf测试6
 
-
-河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af#http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=82fa2120c1c91f181bbdf82de498faad#rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18
-河北影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c#http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=2510710360&k=acc030f5a46fa7ec8a6794ce0f3bee42#rtmp://tv.pull.hebtv.com/jishi/yingshijupindao?t=2510710360&k=51b17a5611b40e6a36395d0129c85ec6
-河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2#http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c#rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
-河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6#http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7500239d3ba501cf7f#rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96
-河北三佳购物,http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e#http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=2510710360&k=70170523773b5f7147ee5b28c6e36d9f#rtmp://tv.pull.hebtv.com/jishi/sanjiagouwu?t=2510710360&k=34ef10c67205a18084245127bd2e2240
-保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 定州新闻,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
 定州生活,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
 定州影院,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
-清苑新闻,https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
-清苑生活,https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-承德综合,https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
-承德公共,https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
-鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+
 鹿泉二套,https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
 鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-涉县综合,https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
-枣强综合,http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
-昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-昌黎综合,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
-迁西综合,https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
-迁西农业,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
 永清综合,http://60.10.203.69:8000/0.m3u8
 永清影视,http://60.10.203.69:8000/4.m3u8
 清河经济,https://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1.m3u8
 青县综合,https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
 青县综合,https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-定州综合,https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
-定州生活,https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
-涞水综合,https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
-
-望都综合,https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
-平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-双滦新闻,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
-双滦影视,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-
-
 昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
 昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
-邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
-鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸科技,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+邯郸科技,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
 
-精彩河北,http://itms.xznet.org:41097/rtp/239.254.200.27:6000
-精彩河北,http://60.10.225.157:555/rtp/239.253.92.104:6221
-河北杂技,http://itms.xznet.org:41097/rtp/239.254.201.139:7203
 
 
 
