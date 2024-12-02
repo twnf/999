@@ -219,7 +219,8 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 🔶地方频道🔶,#genre#
 
-
+农民频道,http://120.0.52.162:8086/tsfile/live/1005_1.m3u8
+农民频道,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5$Twnf测试
 石家庄新,http://pluslive1.sjzntv.cn/xmzh/HD/live.m3u8$官方源
 石家庄娱,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8$官方源
 石家庄生,http://pluslive1.sjzntv.cn/shenghuo/HD3/live.m3u8$官方源
@@ -266,25 +267,13 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 🔶港澳台区🔶,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$Twnf测试
-凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
-凤凰中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
-凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
-凤凰中文,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
-凤凰中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
-凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
-凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
+凤凰中文,https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8$Twnf测试
-凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
-凤凰资讯,http://171.213.146.154:8818/udp/239.93.0.118:2191
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
-凤凰香港http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8$Twnf测试
-凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
-凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
-
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 香港环球卫视,rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
