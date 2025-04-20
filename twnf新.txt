@@ -210,7 +210,7 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 🔶地方频道🔶,#genre#
 
-农民频道,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1745130583&k=69122bb14a70e8ffb125a02a24abb51f$官方
+农民频道,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1745162727&k=503268947f718317a8fe32d09e858b3e$官方
 农民频道,http://123.182.247.236:8092/hls/16/index.m3u8
 农民频道,http://27.185.1.27:8092/hls/16/index.m3u8$Twnf测试
 石家庄新,http://pluslive1.sjzntv.cn/xmzh/HD/live.m3u8$官方源
