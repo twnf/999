@@ -115,6 +115,46 @@ CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津联通酒店
 武博世界,http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+卡酷少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8?$HLJYD 1.5M SD 
+金鹰卡通,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8?$HLJYD 1.5M SD 
+优漫卡通,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?$HLJYD 1.5M SD 
+哈哈炫动,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8?$HLJYD 1.5M SD 
+睛彩竞技,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8?$HLJYD 8M FHD 
+睛彩青少,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8?$HLJYD 8M FHD 
+睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8?$HLJYD 8M FHD 
+睛彩篮球,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8?$HLJYD 8M FHD 
+睛彩广场舞,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8?$HLJYD 8M FHD 
+睛彩广场舞,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8?$HLJYD 8M FHD 
+黑莓电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?$HLJYD 4M FHD 
+黑莓动画,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?$HLJYD 4M FHD 
+哒啵赛事,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8?$HLJYD 4M FHD 
+超级电视剧,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?$HLJYD 4M FHD 
+超级电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?$HLJYD 4M FHD 
+动作电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8?$HLJYD 2.5M FHD 
+家庭剧场,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?$HLJYD 2.5M FHD 
+惊悚悬疑,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?$HLJYD 2.5M FHD 
+精品大剧,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?$HLJYD 2.5M FHD 
+明星大片,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?$HLJYD 2.5M FHD 
+海外剧场,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?$HLJYD 2.5M FHD 
+军旅剧场,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?$HLJYD 2.5M FHD 
+古装剧场,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?$HLJYD 4M FHD 
+欢乐剧场,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?$HLJYD 4M FHD 
+东北热剧,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?$HLJYD 4M FHD 
+爱情喜剧,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8?$HLJYD 2.5M FHD 
+精品纪录,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8?$HLJYD 2.5M FHD 
+超级体育,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?$HLJYD 4M FHD 
+精品体育,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?$HLJYD 4M FHD 
+武搏世界,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?$HLJYD 2.5M FHD 
+中国功夫,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?$HLJYD 2.5M FHD 
+超级综艺,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?$HLJYD 4M FHD 
+金牌综艺,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?$HLJYD 2.5M FHD 
+炫舞未来,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8?$HLJYD 4M FHD 
+农业致富,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8?$HLJYD 4M FHD 
+军事评论,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?$HLJYD 2.5M FHD 
+精品萌宠,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8?$HLJYD 4M FHD 
+潮妈辣婆,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?$HLJYD 4M FHD 
+怡伴健康,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8?$HLJYD 2.5M FHD 
+北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
 
 
 河北地方,#genre#
@@ -1249,3 +1289,10 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 
 
 
+测试频道,#genre#
+北京4k超清,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887500.m3u8 
+北京电影,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887498.m3u8 
+北京剧场,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887497.m3u8 
+北京动画,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887496.m3u8 
+北京娱乐,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887499.m3u8 
+北京体育休闲,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870779.m3u8
