@@ -1,3 +1,13 @@
+Twnf,#genre#
+
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+
+
+
+
 央视频道,#genre#
 
 CCTV-1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$Twnf
@@ -214,44 +224,23 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
 
 
-河北农民,#genre#
-河北农民1,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF36%E3%80%8F
-河北农民2,http://156.238.253.62:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/hebei.php?id=nmpd$Twnf
-河北农民3,http://101.23.150.109:9901/tsfile/live/1005_1.m3u8
+河北频道,#genre#
+河北农民,http://live.nctv.top/DYjsklis/hbtv.php?id=nmpd
+河北农民,http://156.238.253.62:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/hebei.php?id=nmpd$Twnf
+河北农民,http://101.23.150.109:9901/tsfile/live/1005_1.m3u8
 
-少儿频道,#genre#
- 金鹰卡通,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
- 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
- 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
- 卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
- 嘉佳卡通,http://183.11.239.36:808/hls/8/index.m3u8
- 炫动卡通,http://113.64.146.6:2024/hls/53/index.m3u8
- 金鹰卡通,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
- 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
- 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
- 哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
- CCTV少儿,http://123.138.22.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
- 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
- 内蒙少儿,http://api2.52tb.xyz/info?id=784&amp;amp;token=20230218qkyjia
- 动漫秀场,http://36.129.204.117:9003//hls/67/index.m3u8
- 动画片,http://61.221.215.25:8800/hls/40/index.m3u8
- 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1746824354&sign=78bf0611762b1da5cf70d1b2b9f3afe0
- 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
- 喜羊羊与灰太狼,http://www.douzhicloud.site:35455/huya/23865080
- 四川妇女儿童,http://wouu.net:9977/udp/239.93.0.219:5140
- 宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140
- 山东少儿,http://58.57.40.22:9901/tsfile/live/1024_1.m3u8
- 新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
- 海南少儿,http://vapi.91kds.cc/live1/hitv.m3u8?id=hiqs&apiKey=2079b631b519ec17da0bc09844eb8419
- 深圳少儿,http://183.11.239.36:808/hls/157/index.m3u8
- 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
- 精灵宝可梦,http://www.douzhicloud.site:35455/huya/23749096
- 经典动漫,http://61.133.118.228:5001/yy/24180320
- 航海王,http://www.douzhicloud.site:35455/huya/16913382
- 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
- 青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
- 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 
+河北经济生活,http://live.nctv.top/DYjsklis/hbtv.php?id=jjsh
+河北都市,http://live.nctv.top/DYjsklis/hbtv.php?id=hbds
+河北影视剧,http://live.nctv.top/DYjsklis/hbtv.php?id=hbys
+河北公共,http://live.nctv.top/DYjsklis/hbtv.php?id=hbgg
+河北少儿,http://live.nctv.top/DYjsklis/hbtv.php?id=sekj
+保定新闻综合,http://live.nctv.top/DYjsklis/hbtv1.php?id=bd1
+保定公共,http://live.nctv.top/DYjsklis/hbtv1.php?id=bd2
+保定生活健康,http://live.nctv.top/DYjsklis/hbtv1.php?id=bd3
+定州新闻综合,http://live.nctv.top/DYjsklis/hbtv1.php?id=dz1
+定州生活,http://live.nctv.top/DYjsklis/hbtv1.php?id=dz2
+定州国学影视,http://live.nctv.top/DYjsklis/hbtv1.php?id=dz3
 
 
 
@@ -678,21 +667,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 威尼斯惊魂夜,https://vip.ffzyread.com/20231031/18914_385e6a33/2000k/hls/mixed.m3u8
 
 
-
-
-体育频道,#genre#
-劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-五星体育,http://b.mtw.so/6pCqfD
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-睛彩竞技,http://138.2.61.159:5000/1000000006000270001/ystenlive/index.m3u8
-睛彩篮球,http://138.2.61.159:5000/2000000003000000061/hnbblive/index.m3u8
-超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
-辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
-魅力足球,http://120.76.248.139/live/bfgd/4200000633.m3u8
-五星体育,http://b.mtw.so/6pCqfD
-快乐垂钓,http://wouu.net:9977/udp/239.93.1.151:5140
-纬来体育,http://live_bin.m16tv.cfd/stream/test/null/AKTV.m3u8
-iHOT爱体育,http://146.56.165.66:7788/TVOD/2000000004000000060/hnbblive/index.m3u8
 
 
 
