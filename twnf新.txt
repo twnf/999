@@ -221,8 +221,6 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 河北频道,#genre#
 河北农民,http://live.nctv.top/DJlio/hbtv.php?id=nmpd
-河北农民,http://156.238.253.62:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/hebei.php?id=nmpd$Twnf
-河北农民,http://101.23.150.109:9901/tsfile/live/1005_1.m3u8
 
 
 河北经济生活,http://live.nctv.top/DJlio/hbtv.php?id=jjsh
