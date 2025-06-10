@@ -220,10 +220,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 河北频道,#genre#
-河北农民,http://live.nctv.top/DJlio/hbtv.php?id=nmpd
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1748960251&k=7ca92845af8959007dab2fab5ac454d7
-河北农民,http://101.18.24.48:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.61.236.247:9081/hls/23/index.m3u8
+河北农民,http://8.138.7.223/tv/hebei.php?id=1
 
 
 河北经济生活,http://live.nctv.top/DJlio/hbtv.php?id=jjsh
