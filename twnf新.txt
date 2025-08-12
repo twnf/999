@@ -6,23 +6,24 @@
 央视频道,#genre#
 
 
-CCTV1,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=abf5d4482ab78fc8f2828cbe8d4ab578a2c8dc44a50e25f866177a7ae92362c0229619827d67b5f9ccb83e48436377965bcf2430016c88a191ec650e80e75443788ccd823934bea8c6be302684$咪咕
- CCTV2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=5361411c244460b356d312d971ec9b115b121fe5daab539540b14fa420d545e2842050d9980d1d250d8e18d6f915b860b5688ddc7bc3816857819b9da7e54aa063f0108385cafcd7a33dff11fe$咪咕
- CCTV3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=4cc4512608ef4b639d2806fa1589cc5bfa5be086d7c483055dd1b2c062ab57ce087ee617fcb401e26ca94032b779cf8345828b21ba90ca9a6bddd61443bdfd6a9a289fb8280531ac6c8e5c746f$咪咕
- CCTV4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=a588d8b958a65552700394058b86e891a7e06c8327ccd9b9eee09d4ca4a9583474b4aed365cf90bfb0255671f30d3764fb70ebce77c940e60ca47a198615f96903635c127a7db8ae76c57dcde3$咪咕
- CCTV5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=8d1748aeae674272aa8febd22cc2223bc89928299e373e01ef27227e1ed9711633a0131da4b4232227f3afb925df68c7c0a896d8785a33df1a039c823b1c9795d5666b18a8773a437386e4f89c$咪咕
- CCTV5+,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=0c2757c8d78019e1625a10edfa30690ad92b20520f2b5f62316fa80583dbfc99eab5922ccf47254828b9bd42fe809708a4d4c4e34330fc5db438720ca18e411fe0e36169b08a27519305d042a6$咪咕
- CCTV6,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=6bfef56d160a71d4b2fe079e8ef9e6b6829397a906e33c3f18701d77f2a5541610fc54642cf2a63076578813a3a741fea61bda2cadb2eb51c62dfc970add700aedc83de6c2e0de6f135fee807b$咪咕
- CCTV7,https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=271c86b6f73d161e29399075d0a009a23cb54f42de07e00acf7ac24cf75cb6fa7e9734d84659a78ba4987ccf576e74a9c0f6943466aefdbdead546fc4d919c361f34c99dc0cbf2eb472cdac4ed$咪咕
- CCTV8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=27abb6577ab32b1cfae931dcb9fbf71ac1649a10c1ca2c26ab6825a76ebb9202830cd2e8a0e8684100df3017eaf7d238b18420759b49f77406a653e3de3ce3073173215c58399edcf23b65f188$咪咕
- CCTV9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=e69c8e4425584f2dee031cd706badeb5e3ea3a0f9253cf682c931678767fbaa5da0eb60ccc444e87addef13f1fbc8292ba2950d44b6d5a104e672f1dc4a963d5cec757f9a22e2bfb70f9da6aaf$咪咕
- CCTV10,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=2fb2541de86ddf0832d0b6cd42c7b29d2bc32694badcd4605010cff8f0f0e0bdb9ec42e07767e5a4af960a6a140b248de8f1ba09fc1fcfb58f6367afb1e94657086e28f9d2007815d17156405f$咪咕
- CCTV11,https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=167f721b7901636ee98a716ee8ac5c14929d6868f77dcf9e7fb04c5b29e971fa3e0a8d134d4553c4635666bdd6f30837e9c5cc9fd381e2a912f5d88a3621180477d1732c1b2def51980eb0c6b6$咪咕
- CCTV12,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=99c2c1ba9689958d0f520e0a2798bc63e0860c42e94ba7115469a340b5d065bc468d6a6a987a22d015ec2ff0d603c59ad22c708c6a6a645079939d73d86c826c6592ee47f7a7850f2e57840339$咪咕
- CCTV13,https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=51fec56b58eb0c9515955fdd5515432035bb55624e71ec13b5947d42876b4c403e1c79575fcf77396eb20f4954e636fb3aec37016686c9b976e9febd057c8f593af7459c57d6995a2b3227fa65$咪咕
- CCTV14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=73fb9bd1e9dfca856aede5f3ebc8fa05357075396f16b8e7efdd02509b313e0715aad895e5d9b1170f361da04b3507e556d30c1cc7aa3ca3e46e15d787377869a3648df84bb982ceb3fbfe9013$咪咕
- CCTV15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=aea37cca033e675bd213802416e0573c11f94dab42fcc441d087ef3797c088c72cf75a74b5505fb005c8e25808330aa79c5e893b3aa4fbe3eb7084ebfd9fd983e14cc6cc001038385db0c663cf$咪咕
- CCTV17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=4671310a52bc78d0534a5ae358377addbbbc7c7df9cc9bc8dd8e099953ffca7526a8d1f3c4efc2d8088c8dccaf4a3f782356b3e5dd8da565c7ccbbe46e9e19ebf4a02ce5e4f90c87812df24016$咪咕
+CCTV1,http://go.bkpcp.top/mg/cctv1$咪咕
+CCTV2,http://go.bkpcp.top/mg/cctv2$咪咕
+CCTV3,http://go.bkpcp.top/mg/cctv3$咪咕
+CCTV4,http://go.bkpcp.top/mg/cctv4$咪咕
+CCTV5,http://go.bkpcp.top/mg/cctv5$咪咕
+CCTV5+,http://go.bkpcp.top/mg/cctv5p$咪咕
+CCTV6,http://go.bkpcp.top/mg/cctv6$咪咕
+CCTV7,http://go.bkpcp.top/mg/cctv7$咪咕
+CCTV8,http://go.bkpcp.top/mg/cctv8$咪咕
+CCTV9,http://go.bkpcp.top/mg/cctv9$咪咕
+CCTV10,http://go.bkpcp.top/mg/cctv10$咪咕
+CCTV11,http://go.bkpcp.top/mg/cctv11$咪咕
+CCTV12,http://go.bkpcp.top/mg/cctv12$咪咕
+CCTV13,http://go.bkpcp.top/mg/cctv13$咪咕
+CCTV14,http://go.bkpcp.top/mg/cctv14$咪咕
+CCTV15,http://go.bkpcp.top/mg/cctv15$咪咕
+CCTV16,http://go.bkpcp.top/mg/cctv16$咪咕
+CCTV17,http://go.bkpcp.top/mg/cctv17$咪咕
 
 
 
@@ -171,26 +172,6 @@ CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$测试1
 
 卫视频道,#genre#
-
-
- 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=816ae849186c10d4ecbae79a0204ed1807dc76e9f23245a58791f47be3f46e4ed96049eef17c5915d3a0f244ba3ba47740483c88e00b4a8e11e3293dec816d08a7dbf7d49bc207cd6547dc6f75$咪咕
- 江苏卫视,https://mursor.ottiptv.cc/migu/623899368.m3u8?migutoken=8b34e4a4c61562d1e536873a579e101343e1e364aa784c2a793e32953e2f08767be1532d049719a8448227e08c155093011f35260e6f07018694aed53b0a1cfd24e40f4efb7cc2d856eaf855b2$咪咕
- 广东卫视,https://mursor.ottiptv.cc/migu/608831231.m3u8?migutoken=4f2544151ba16c5330599675f8c8abfd5194ed52df0e4404d3af294e71763e9d0d8df50b8c27b5f35580a16a749abc977fa2ed1780fed8d1aa235721e2e5265713f129563c9a2a072a89670640$咪咕
- 江西卫视,https://mursor.ottiptv.cc/migu/783847495.m3u8?migutoken=0e8fe78b4ec86a4197b64409df652643a70ba5a89e68d31257ef0216125b45d10596e8386f2b972f08f453c030a0c3dab2d8e0bdf53bc590bf49796433de505623389bcfcbdd9314c8984e189b$咪咕
- 河南卫视,https://mursor.ottiptv.cc/migu/790187291.m3u8?migutoken=4f76ae6513151635c89c75e1cf07bc0d27a2a827d73705c61409473667d0597057945f9bb839ba78a1b322ad6068cdf899a357f18d2c11a18f231fb8421b1636d1d022de9c33158f18b0f81667$咪咕
- 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=25c92579c266f9f988863c8afcb68c9972c85a6655309669ac1ccb138544c07ab6cba2df43327af4896cd4af999ef559174f6043bc8b2118e641b738c1fcf3762ba9b6b2f463bc295d21bdbebd$咪咕
- 大湾区卫视,https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=30ea7de77a0233ca9fd214e37d29c0f72403f6713ad3cde23caf18298f74994ae24a88a48e9bc4fae9b9c43a2ab3cd58f8b6f72a7d3d65c4a7bdeeb10b305de47fa837513c708ff6e288880677$咪咕
- 湖北卫视,https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=358b6e4b299c1a58a96aca7f0f1bb8f1fd4af225b82d159abfb9b1f5ea03cb5768158c9b197cca19c23defb75a55029ef4d3182df5ddd386755cb8a131a3a0f2a67763330f406d337e792c8cde$咪咕
- 吉林卫视,https://mursor.ottiptv.cc/migu/947472500.m3u8?migutoken=6af8bb7e31aaf3f951e75a9a12fc87ee468e63bfc9b9ee0d1c334e2cfdd3b893d38c0e3e9380e79a36fa980821ad1c80eeb9ba301ffc35a13e74fbe57446762fbf973847af5af388b7e286629c$咪咕
- 青海卫视,https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=419e8e08edb7818cf4e6992592d716447a4f44b7607d9f0961b3902f1971f7a09397ce6d65f56308a0ed365dc5a352f3f40a46191a292237936f0078572d7e7482608fe9f69778512b2cb131d5$咪咕
- 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=62a36ff30e33ee4b8cf5e6c6153aa412a1b201a9ec5207b32dbc7790b6d847bf6fdf542fdcc0b06d8ad1b87602289594315e6924aa661e2abe93fa38ee9d8253ecc126aa227e075fb2f700b34a$咪咕
- 海南卫视,https://mursor.ottiptv.cc/migu/947472502.m3u8?migutoken=acebd292a90f16c290f2dbd196e30c2efa3365d26362247634628e12c209a5f021534dbae6bb4ed01a7c1359631dec32f980c335e2769c5d841f2a58bf05003529759fb8a22a36bd00dc4c5a28$咪咕
- 海峡卫视,https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=8cadd39dc6cdd5b06f2b6c6be734d3ba20eb7994409a6ccfb2e20702dcbb2e95a353ce35c533300e5381a914007bf4f669e221328622e76eefed613bb2461bfd848418fc19bb9bcbfac06a23a3$咪咕
- 中国农林卫视,https://mursor.ottiptv.cc/migu/956904896.m3u8?migutoken=099fafbbe2fcac29cc40be258691ca828c8bda013971bfbe801a00c28960ec0cea4839b45e271e8405d731158e23f5a62cb155406c104d2049de8319b82f155c9dff7af1948dbd357ea1e98343$咪咕
- 兵团卫视,https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=3be33fcea1bddf67b19a5f25725dad8d5ba598f7738c50fdaca616f8b9fc7d12b859300bfd0a7f7c35bef766861445a17502f1029f70aaf939d44cfb9e9d3fe7855e926884cad0b86a1a75f0a2$咪咕
-
-
-
 
 
 北京卫视,http://111.63.117.13:6060/030000001001/beijingstv/1.m3u8
@@ -753,6 +734,165 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
 极速狂飙,https://vip.ffzyread.com/20230927/17147_95358930/index.m3u8
 威尼斯惊魂夜,https://vip.ffzyread.com/20231031/18914_385e6a33/2000k/hls/mixed.m3u8
+
+
+
+
+还珠格格1,#genre#
+还珠格格壹01,https://yzzy.play-cdn8.com/20220710/3671_314a6b1b/index.m3u8
+还珠格格壹02,https://yzzy.play-cdn8.com/20220710/3670_cdafc23f/index.m3u8
+还珠格格壹03,https://yzzy.play-cdn8.com/20220710/3669_9b81e5f9/index.m3u8
+还珠格格壹04,https://yzzy.play-cdn8.com/20220710/3668_647699dd/index.m3u8
+还珠格格壹05,https://yzzy.play-cdn8.com/20220710/3667_06c8377b/inex.m3u8
+还珠格格壹06,https://yzzy.play-cdn8.com/20220710/3666_2ec6c259/index.m3u8
+还珠格格壹07,https://yzzy.play-cdn8.com/20220710/3665_4686697e/index.m3u8
+还珠格格壹08,https://yzzy.play-cdn8.com/20220710/3664_39ded22f/index.m3u8
+还珠格格壹09,https://yzzy.play-cdn8.com/20220710/3663_5aab8a68/index.m3u8
+还珠格格壹10,https://yzzy.play-cdn8.com/20220710/3662_9e2a0626/index.m3u8
+还珠格格壹11,https://yzzy.play-cdn8.com/20220710/3661_c0bd7c31/index.m3u8
+还珠格格壹12,https://yzzy.play-cdn8.com/20220710/3660_b24fe487/index.m3u8
+还珠格格壹13,https://yzzy.play-cdn8.com/20220710/3658_0d62f792/index.m3u8
+还珠格格壹14,https://yzzy.play-cdn8.com/20220710/3659_995cbe48/index.m3u8
+还珠格格壹15,https://yzzy.play-cdn8.com/20220710/3657_01ac0b82/index.m3u8
+还珠格格壹16,https://yzzy.play-cdn8.com/20220710/3656_3e289c3f/index.m3u8
+还珠格格壹17,https://yzzy.play-cdn8.com/20220710/3655_36717156/index.m3u8
+还珠格格壹18,https://yzzy.play-cdn8.com/20220710/3654_ae8d01fd/index.m3u8
+还珠格格壹19,https://yzzy.play-cdn8.com/20220710/3653_a1696875/index.m3u8
+还珠格格壹20,https://yzzy.play-cdn8.com/20220710/3652_31352e33/index.m3u8
+还珠格格壹21,https://yzzy.play-cdn8.com/20220710/3651_8c51ad8b/index.m3u8
+还珠格格壹22,https://yzzy.play-cdn8.com/20220710/3650_bde9774f/index.m3u8
+还珠格格壹23,https://yzzy.play-cdn8.com/20220710/3649_95656d66/index.m3u8
+还珠格格壹24,https://yzzy.play-cdn8.com/20220710/3648_29d10de2/index.m3u8
+
+
+还珠格格2,#genre#
+还珠格格贰01,https://yzzy.play-cdn8.com/20220710/3647_728f0513/index.m3u8
+还珠格格贰02,https://yzzy.play-cdn8.com/20220710/3646_f9026ae9/index.m3u8
+还珠格格贰03,https://yzzy.play-cdn8.com/20220710/3645_3082ea33/index.m3u8
+还珠格格贰04,https://yzzy.play-cdn8.com/20220710/3644_94d6c4fe/index.m3u8
+还珠格格贰05,https://yzzy.play-cdn8.com/20220710/3643_e20c7792/index.m3u8
+还珠格格贰06,https://yzzy.play-cdn8.com/20220710/3642_e49efa22/index.m3u8
+还珠格格贰07,https://yzzy.play-cdn8.com/20220710/3641_716dc13d/index.m3u8
+还珠格格贰08,https://yzzy.play-cdn8.com/20220710/3640_60ba2907/index.m3u8
+还珠格格贰09,https://yzzy.play-cdn8.com/20220710/3639_daf4c557/index.m3u8
+还珠格格贰10,https://yzzy.play-cdn8.com/20220710/3638_1ed5dcb0/index.m3u8
+还珠格格贰11,https://yzzy.play-cdn8.com/20220710/3637_93403bfa/index.m3u8
+还珠格格贰12,https://yzzy.play-cdn8.com/20220710/3636_54a9a534/index.m3u8
+还珠格格贰13,https://yzzy.play-cdn8.com/20220710/3635_4acd2dea/index.m3u8
+还珠格格贰14,https://yzzy.play-cdn8.com/20220710/3634_e43af6d7/index.m3u8
+还珠格格贰15,https://yzzy.play-cdn8.com/20220710/3633_71994fad/index.m3u8
+还珠格格贰16,https://yzzy.play-cdn8.com/20220710/3632_84031189/index.m3u8
+还珠格格贰17,https://yzzy.play-cdn8.com/20220710/3631_c816b17f/index.m3u8
+还珠格格贰18,https://yzzy.play-cdn8.com/20220710/3630_6b92c7a3/index.m3u8
+还珠格格贰19,https://yzzy.play-cdn8.com/20220710/3629_48dbbb98/index.m3u8
+还珠格格贰20,https://yzzy.play-cdn8.com/20220710/3628_27cb15c1/index.m3u8
+还珠格格贰21,https://yzzy.play-cdn8.com/20220710/3627_b8a16aa2/index.m3u8
+还珠格格贰22,https://yzzy.play-cdn8.com/20220710/3626_8aa76a4b/index.m3u8
+还珠格格贰23,https://yzzy.play-cdn8.com/20220710/3625_72e87fb5/index.m3u8
+还珠格格贰24,https://yzzy.play-cdn8.com/20220710/3624_fcd64e64/index.m3u8
+还珠格格贰25,https://yzzy.play-cdn8.com/20220710/3623_8994bbdd/index.m3u8
+还珠格格贰26,https://yzzy.play-cdn8.com/20220710/3622_a6b7d9c5/index.m3u8
+还珠格格贰27,https://yzzy.play-cdn8.com/20220710/3621_bcfcd04d/index.m3u8
+还珠格格贰28,https://yzzy.play-cdn8.com/20220710/3620_1405602e/index.m3u8
+还珠格格贰29,https://yzzy.play-cdn8.com/20220710/3619_9324ad44/index.m3u8
+还珠格格贰30,https://yzzy.play-cdn8.com/20220710/3618_1e0a5764/index.m3u8
+还珠格格贰31,https://yzzy.play-cdn8.com/20220710/3617_a3bbd11d/index.m3u8
+还珠格格贰32,https://yzzy.play-cdn8.com/20220710/3616_3e29f404/index.m3u8
+还珠格格贰33,https://yzzy.play-cdn8.com/20220710/3615_d1fc25bd/index.m3u8
+还珠格格贰34,https://yzzy.play-cdn8.com/20220710/3614_99aad988/index.m3u8
+还珠格格贰35,https://yzzy.play-cdn8.com/20220710/3613_c31290d6/index.m3u8
+还珠格格贰36,https://yzzy.play-cdn8.com/20220710/3612_344984ac/index.m3u8
+还珠格格贰37,https://yzzy.play-cdn8.com/20220710/3611_b88bd756/index.m3u8
+还珠格格贰38,https://yzzy.play-cdn8.com/20220710/3610_0a641b2a/index.m3u8
+还珠格格贰39,https://yzzy.play-cdn8.com/20220710/3609_f1124dea/index.m3u8
+还珠格格贰40,https://yzzy.play-cdn8.com/20220710/3608_46d33910/index.m3u8
+还珠格格贰41,https://yzzy.play-cdn8.com/20220710/3607_8cb2010e/index.m3u8
+还珠格格贰42,https://yzzy.play-cdn8.com/20220710/3606_093d5ad2/index.m3u8
+还珠格格贰43,https://yzzy.play-cdn8.com/20220710/3605_42b84d10/index.m3u8
+还珠格格贰44,https://yzzy.play-cdn8.com/20220710/3604_6f6ad50c/index.m3u8
+还珠格格贰45,https://yzzy.play-cdn8.com/20220710/3603_4707992d/index.m3u8
+还珠格格贰46,https://yzzy.play-cdn8.com/20220710/3602_bd1ccb00/index.m3u8
+还珠格格贰47,https://yzzy.play-cdn8.com/20220710/3601_071cd762/index.m3u8
+还珠格格贰48,https://yzzy.play-cdn8.com/20220710/3600_ea939ce8/index.m3u8
+
+
+
+
+甄嬛传,#genre#
+甄嬛传第01集,https://vip.dytt-love.com/20250701/2664_daaaf136/index.m3u8
+甄嬛传第02集,https://vip.dytt-love.com/20250701/2665_e727fa59/index.m3u8
+甄嬛传第03集,https://vip.dytt-love.com/20250701/2666_1102a326/index.m3u8
+甄嬛传第04集,https://vip.dytt-love.com/20250701/2667_7edccc66/index.m3u8
+甄嬛传第05集,https://vip.dytt-love.com/20250701/2668_5ac8bb8a/index.m3u8
+甄嬛传第06集,https://vip.dytt-love.com/20250701/2669_0bed45bd/index.m3u8
+甄嬛传第07集,https://vip.dytt-love.com/20250701/2670_028ee724/index.m3u8
+甄嬛传第08集,https://vip.dytt-love.com/20250701/2671_f8da71e5/index.m3u8
+甄嬛传第09集,https://vip.dytt-love.com/20250701/2672_0e900ad8/index.m3u8
+甄嬛传第10集,https://vip.dytt-love.com/20250701/2673_88fee042/index.m3u8
+甄嬛传第11集,https://vip.dytt-love.com/20250701/2674_a8345c3b/index.m3u8
+甄嬛传第12集,https://vip.dytt-love.com/20250701/2675_a8aa681a/index.m3u8
+甄嬛传第13集,https://vip.dytt-love.com/20250701/2676_d89a66c7/index.m3u8
+甄嬛传第14集,https://vip.dytt-love.com/20250701/2677_e97c864e/index.m3u8
+甄嬛传第15集,https://vip.dytt-love.com/20250701/2678_94aef384/index.m3u8
+甄嬛传第16集,https://vip.dytt-love.com/20250701/2679_9813b270/index.m3u8
+甄嬛传第17集,https://vip.dytt-love.com/20250701/2680_220a7f49/index.m3u8
+甄嬛传第18集,https://vip.dytt-love.com/20250701/2681_dcda54e2/index.m3u8
+甄嬛传第19集,https://vip.dytt-love.com/20250701/2682_f15eda31/index.m3u8
+甄嬛传第20集,https://vip.dytt-love.com/20250701/2683_8420d359/index.m3u8
+甄嬛传第21集,https://vip.dytt-love.com/20250701/2684_7c4bf50b/index.m3u8
+甄嬛传第22集,https://vip.dytt-love.com/20250701/2685_41ab1b1d/index.m3u8
+甄嬛传第23集,https://vip.dytt-love.com/20250701/2686_3a0844ce/index.m3u8
+甄嬛传第24集,https://vip.dytt-love.com/20250701/2687_573eec40/index.m3u8
+甄嬛传第25集,https://vip.dytt-love.com/20250701/2688_b38e5ff5/index.m3u8
+甄嬛传第26集,https://vip.dytt-love.com/20250701/2689_577fd602/index.m3u8
+甄嬛传第27集,https://vip.dytt-love.com/20250701/2690_f6185f0e/index.m3u8
+甄嬛传第28集,https://vip.dytt-love.com/20250701/2691_110eec23/index.m3u8
+甄嬛传第29集,https://vip.dytt-love.com/20250701/2692_d790c9e6/index.m3u8
+甄嬛传第30集,https://vip.dytt-love.com/20250701/2693_3bd40173/index.m3u8
+甄嬛传第31集,https://vip.dytt-love.com/20250701/2694_cf9b2d04/index.m3u8
+甄嬛传第32集,https://vip.dytt-love.com/20250701/2695_dbbf603f/index.m3u8
+甄嬛传第33集,https://vip.dytt-love.com/20250701/2696_dc2b6905/index.m3u8
+甄嬛传第34集,https://vip.dytt-love.com/20250701/2697_ab452534/index.m3u8
+甄嬛传第35集,https://vip.dytt-love.com/20250701/2698_fb4ab556/index.m3u8
+甄嬛传第36集,https://vip.dytt-love.com/20250701/2699_0415740e/index.m3u8
+甄嬛传第37集,https://vip.dytt-love.com/20250701/2700_f1b07759/index.m3u8
+甄嬛传第38集,https://vip.dytt-love.com/20250701/2701_df0e09d6/index.m3u8
+甄嬛传第39集,https://vip.dytt-love.com/20250701/2702_2e7ceec8/index.m3u8
+甄嬛传第40集,https://vip.dytt-love.com/20250701/2703_220c77af/index.m3u8
+甄嬛传第41集,https://vip.dytt-love.com/20250701/2704_81c2f886/index.m3u8
+甄嬛传第42集,https://vip.dytt-love.com/20250701/2705_825f9cd5/index.m3u8
+甄嬛传第43集,https://vip.dytt-love.com/20250701/2706_2e74c2cf/index.m3u8
+甄嬛传第44集,https://vip.dytt-love.com/20250701/2707_65f2a94c/index.m3u8
+甄嬛传第45集,https://vip.dytt-love.com/20250701/2708_03fa2f75/index.m3u8
+甄嬛传第46集,https://vip.dytt-love.com/20250701/2709_5a99158e/index.m3u8
+甄嬛传第47集,https://vip.dytt-love.com/20250701/2710_de594ef5/index.m3u8
+甄嬛传第48集,https://vip.dytt-love.com/20250701/2711_65fc9fb4/index.m3u8
+甄嬛传第49集,https://vip.dytt-love.com/20250701/2712_bbeb0c1b/index.m3u8
+甄嬛传第50集,https://vip.dytt-love.com/20250701/2713_403ea2e8/index.m3u8
+甄嬛传第51集,https://vip.dytt-love.com/20250701/2714_b628386c/index.m3u8
+甄嬛传第52集,https://vip.dytt-love.com/20250701/2715_ff2cc3b8/index.m3u8
+甄嬛传第53集,https://vip.dytt-love.com/20250701/2716_cdd96eed/index.m3u8
+甄嬛传第54集,https://vip.dytt-love.com/20250701/2717_058d6f2f/index.m3u8
+甄嬛传第55集,https://vip.dytt-love.com/20250701/2718_ad47a008/index.m3u8
+甄嬛传第56集,https://vip.dytt-love.com/20250701/2719_7aee26c3/index.m3u8
+甄嬛传第57集,https://vip.dytt-love.com/20250701/2720_fa2e8c43/index.m3u8
+甄嬛传第58集,https://vip.dytt-love.com/20250701/2721_36238749/index.m3u8
+甄嬛传第59集,https://vip.dytt-love.com/20250701/2722_33267e5d/index.m3u8
+甄嬛传第60集,https://vip.dytt-love.com/20250701/2723_c315f032/index.m3u8
+甄嬛传第61集,https://vip.dytt-love.com/20250701/2724_64a08e5f/index.m3u8
+甄嬛传第62集,https://vip.dytt-love.com/20250701/2725_4bbdcc0e/index.m3u8
+甄嬛传第63集,https://vip.dytt-love.com/20250701/2726_b1c00bcd/index.m3u8
+甄嬛传第64集,https://vip.dytt-love.com/20250701/2727_23fc4cba/index.m3u8
+甄嬛传第65集,https://vip.dytt-love.com/20250701/2728_5e751896/index.m3u8
+甄嬛传第66集,https://vip.dytt-love.com/20250701/2729_b7f1f29d/index.m3u8
+甄嬛传第67集,https://vip.dytt-love.com/20250701/2730_421b3ac5/index.m3u8
+甄嬛传第68集,https://vip.dytt-love.com/20250701/2731_08f38e04/index.m3u8
+甄嬛传第69集,https://vip.dytt-love.com/20250701/2732_36144052/index.m3u8
+甄嬛传第70集,https://vip.dytt-love.com/20250701/2733_ec1f850d/index.m3u8
+甄嬛传第71集,https://vip.dytt-love.com/20250701/2734_7f7c351e/index.m3u8
+甄嬛传第72集,https://vip.dytt-love.com/20250701/2735_1d497805/index.m3u8
+甄嬛传第73集,https://vip.dytt-love.com/20250701/2736_47fd3c87
+
 
 
 
@@ -1441,5 +1581,6 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 北京动画,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887496.m3u8 
 北京娱乐,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887499.m3u8 
 北京体育休闲,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870779.m3u8
+
 
 
