@@ -291,6 +291,17 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 🔶河北地方🔶,#genre#
+
+河北都市,http://cx.li13313000882.cn:24280/hls/50/index.m3u8
+河北经济,http://cx.li13313000882.cn:24280/hls/51/index.m3u8
+河北影视,http://cx.li13313000882.cn:24280/hls/52/index.m3u8
+少儿科教,http://cx.li13313000882.cn:24280/hls/53/index.m3u8
+河北公共,http://cx.li13313000882.cn:24280/hls/54/index.m3u8
+河北农民,http://cx.li13313000882.cn:24280/hls/55/index.m3u8
+邯郸公共,http://cx.li13313000882.cn:24280/hls/56/index.m3u8
+邯郸新闻,http://cx.li13313000882.cn:24280/hls/57/index.m3u8
+邯郸科教,http://cx.li13313000882.cn:24280/hls/58/index.m3u8
+
 河北农民,http://106.115.24.120:9901/tsfile/live/1008_1.m3u8?key=txiptv
 河北农民,http://120.3.195.36:9901/tsfile/live/1007_1.m3u8?key=txiptv
 河北经济,http://106.115.24.120:9901/tsfile/live/1005_1.m3u8?key=txiptv
@@ -1613,6 +1624,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 
 
 测试频道_1024,#genre#
+
 
 
 
