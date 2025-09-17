@@ -1,28 +1,5 @@
 🔶央视频道🔶,#genre#
 
-CCTV1,http://go.bkpcp.top/mg/cctv1$咪咕
-CCTV2,http://go.bkpcp.top/mg/cctv2$咪咕
-CCTV3,http://go.bkpcp.top/mg/cctv3$咪咕
-CCTV4,http://go.bkpcp.top/mg/cctv4$咪咕
-CCTV5,http://go.bkpcp.top/mg/cctv5$咪咕
-CCTV5+,http://go.bkpcp.top/mg/cctv5p$咪咕
-CCTV6,http://go.bkpcp.top/mg/cctv6$咪咕
-CCTV7,http://go.bkpcp.top/mg/cctv7$咪咕
-CCTV8,http://go.bkpcp.top/mg/cctv8$咪咕
-CCTV9,http://go.bkpcp.top/mg/cctv9$咪咕
-CCTV10,http://go.bkpcp.top/mg/cctv10$咪咕
-CCTV11,http://go.bkpcp.top/mg/cctv11$咪咕
-CCTV12,http://go.bkpcp.top/mg/cctv12$咪咕
-CCTV13,http://go.bkpcp.top/mg/cctv13$咪咕
-CCTV14,http://go.bkpcp.top/mg/cctv14$咪咕
-CCTV15,http://go.bkpcp.top/mg/cctv15$咪咕
-CCTV16,http://go.bkpcp.top/mg/cctv16$咪咕
-CCTV17,http://go.bkpcp.top/mg/cctv17$咪咕
-
-
-
-
-
 
 CCTV1,http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
 CCTV2,http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
@@ -1624,6 +1601,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 
 
 测试频道_1024,#genre#
+
 
 
 
