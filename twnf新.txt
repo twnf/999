@@ -293,7 +293,84 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
-🔶电影轮播🔶,#genre#
+🔶影视剧集🔶,#genre#
+征服,http://cfss.cc/cdn/hy/11601970.m3u8
+爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8 
+家有儿女,http://cfss.cc/cdn/hy/11352872.m3u8 
+神医喜来乐,http://cfss.cc/cdn/hy/11601978.m3u8
+神探狄仁杰,http://cfss.cc/cdn/hy/11352958.m3u8
+赵家班,http://cfss.cc/cdn/hy/11352938.m3u8 
+芈月传,http://cfss.cc/cdn/hy/11352975.m3u8 
+婆媳间,http://cfss.cc/cdn/hy/21059568.m3u8 
+捉妖记,http://cfss.cc/cdn/hy/11342414.m3u8 
+好先生,http://cfss.cc/cdn/hy/11602088.m3u8 
+铁梨花,http://cfss.cc/cdn/hy/11352912.m3u8 
+神话片,http://cfss.cc/cdn/hy/11352913.m3u8 
+鬼吹灯,http://cfss.cc/cdn/hy/11352871.m3u8 
+宝莲灯,http://cfss.cc/cdn/hy/21059563.m3u8 
+水浒传,http://cfss.cc/cdn/hy/26355860.m3u8 
+西游记,http://cfss.cc/cdn/hy/26355861.m3u8 
+灰太狼,http://cfss.cc/cdn/hy/23865080.m3u8 
+洗冤录,http://cfss.cc/cdn/hy/23903130.m3u8 
+寻秦记,http://cfss.cc/cdn/hy/23864973.m3u8 
+特工007,http://cfss.cc/cdn/hy/21059585.m3u8 
+今晚80后,http://cfss.cc/cdn/hy/11352961.m3u8 
+新版三国,http://cfss.cc/cdn/hy/11352944.m3u8 
+新版水浒,http://cfss.cc/cdn/hy/11342384.m3u8 
+天龙八部,http://cfss.cc/cdn/hy/23903123.m3u8 
+笑傲江湖,http://cfss.cc/cdn/hy/23865142.m3u8 
+神雕侠侣,http://cfss.cc/cdn/hy/23865171.m3u8 
+楚汉骄雄,http://cfss.cc/cdn/hy/23740156.m3u8 
+金枝欲孽,http://cfss.cc/cdn/hy/23865036.m3u8 
+雍正王朝,http://cfss.cc/cdn/hy/11342439.m3u8 
+康熙王朝,http://cfss.cc/cdn/hy/11352940.m3u8 
+三国演义,http://cfss.cc/cdn/hy/11602081.m3u8 
+法证先锋,http://cfss.cc/cdn/hy/23863804.m3u8 
+士兵突击,http://cfss.cc/cdn/hy/11342430.m3u8 
+父母爱情,http://cfss.cc/cdn/hy/11602071.m3u8 
+终极三国,http://cfss.cc/cdn/hy/21059562.m3u8 
+龙门镖局,http://cfss.cc/cdn/hy/11352874.m3u8 
+网球王子,http://cfss.cc/cdn/hy/11352882.m3u8 
+龙岭迷窟,http://cfss.cc/cdn/hy/29465863.m3u8 
+昆仑神宫,http://cfss.cc/cdn/hy/11601957.m3u8 
+怒晴湘西,http://cfss.cc/cdn/hy/11602075.m3u8 
+云南虫谷,http://cfss.cc/cdn/hy/11352898.m3u8 
+南海归墟,http://cfss.cc/cdn/hy/11352883.m3u8 
+雪山飞狐,http://cfss.cc/cdn/hy/11352952.m3u8 
+红海行动,http://cfss.cc/cdn/hy/11601986.m3
+鹊刀门传奇,http://cfss.cc/cdn/hy/11352963.m3u8 
+民兵葛二蛋,http://cfss.cc/cdn/hy/11602072.m3u8 
+铁道游击队,http://cfss.cc/cdn/hy/11352936.m3u8 
+新神雕侠侣,http://cfss.cc/cdn/hy/11352964.m3u8 
+我叫王大锤,http://cfss.cc/cdn/hy/26355850.m3u8 
+雪中悍刀行,http://cfss.cc/cdn/hy/11336592.m3u8 
+生活大爆炸,http://cfss.cc/cdn/hy/11342417.m3u8 
+情满四合院,http://cfss.cc/cdn/hy/11342426.m3u8 
+金庸经典剧,http://cfss.cc/cdn/hy/11602082.m3u8 
+五福星全集,http://cfss.cc/cdn/hy/11282233.m3u8 
+大宋提刑官,http://cfss.cc/cdn/hy/11279251.m3u8 
+命案十三宗,http://cfss.cc/cdn/hy/11601981.m3u8 
+特战队出击,http://cfss.cc/cdn/hy/11352973.m3u8 
+新天龙八部,http://cfss.cc/cdn/hy/20985816.m3u8 
+美食纪录片,http://cfss.cc/cdn/hy/11352955.m3u8 
+ 
+中华小当家,http://cfss.cc/cdn/hy/11342413.m3u8 
+搞笑一家人,http://cfss.cc/cdn/hy/11342402.m3u8 
+倚天屠龙记,http://cfss.cc/cdn/hy/11342403.m3u8 
+杰森斯坦森,http://cfss.cc/cdn/hy/21059588.m3u8 
+地下交通站,http://cfss.cc/cdn/hy/11342433.m3u8 
+陈翔六点半,http://cfss.cc/cdn/hy/11274154.m3u8 
+炊事班的故事,http://cfss.cc/cdn/hy/19524135.m3u8 
+情深深雨濛濛,http://cfss.cc/cdn/hy/11352885.m3u8 
+穿越千年之恋,http://cfss.cc/cdn/hy/11342398.m3u8 
+风云雄霸天下,http://cfss.cc/cdn/hy/21059612.m3u8 
+康熙微服私访,http://cfss.cc/cdn/hy/11342418.m3u8 
+我的团长我的团,http://cfss.cc/cdn/hy/11352910.m3u8 
+铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
+
+
+
+
 成龙,http://cfss.cc/cdn/hy/11342386.m3u8
 黄渤,http://cfss.cc/cdn/hy/11352876.m3u8
 沈腾,http://cfss.cc/cdn/hy/11601968.m3u8
@@ -1021,6 +1098,41 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 
 
 
+🔶亮剑️️全集🔶,#genre# 
+亮剑 第01集,https://vip.ffzy-play1.com/20230113/51806_72d20784/2000k/hls/mixed.m3u8 
+亮剑 第02集,https://vip.ffzy-play1.com/20230113/51805_af533edb/2000k/hls/mixed.m3u8 
+亮剑 第03集,https://vip.ffzy-play1.com/20230113/51807_0da1f48c/2000k/hls/mixed.m3u8 
+亮剑 第04集,https://vip.ffzy-play1.com/20230113/51808_a7b33163/2000k/hls/mixed.m3u8 
+亮剑 第05集,https://vip.ffzy-play1.com/20230113/51810_2431c74a/2000k/hls/mixed.m3u8 
+亮剑 第06集,https://vip.ffzy-play1.com/20230113/51809_5ea2d77d/2000k/hls/mixed.m3u8 
+亮剑 第07集,https://vip.ffzy-play1.com/20230113/51811_9de91146/2000k/hls/mixed.m3u8 
+亮剑 第08集,https://vip.ffzy-play1.com/20230113/51813_6979dace/2000k/hls/mixed.m3u8 
+亮剑 第09集,https://vip.ffzy-play1.com/20230113/51814_3a76dcf1/2000k/hls/mixed.m3u8 
+亮剑 第10集,https://vip.ffzy-play1.com/20230113/51812_5d88f883/2000k/hls/mixed.m3u8 
+亮剑 第11集,https://vip.ffzy-play1.com/20230113/51815_d5911146/2000k/hls/mixed.m3u8 
+亮剑 第12集,https://vip.ffzy-play1.com/20230113/51817_15691c0c/2000k/hls/mixed.m3u8 
+亮剑 第13集,https://vip.ffzy-play1.com/20230113/51816_75465ff8/2000k/hls/mixed.m3u8 
+亮剑 第14集,https://vip.ffzy-play1.com/20230113/51818_accc32b6/2000k/hls/mixed.m3u8 
+亮剑 第15集,https://vip.ffzy-play1.com/20230113/51820_125a3336/2000k/hls/mixed.m3u8 
+亮剑 第16集,https://vip.ffzy-play1.com/20230113/51819_5e7a7ba3/2000k/hls/mixed.m3u8 
+亮剑 第17集,https://vip.ffzy-play1.com/20230113/51823_9ec1a8a3/2000k/hls/mixed.m3u8 
+亮剑 第18集,https://vip.ffzy-play1.com/20230113/51821_4c1ffef1/2000k/hls/mixed.m3u8 
+亮剑 第19集,https://vip.ffzy-play1.com/20230113/51824_49ea57cc/2000k/hls/mixed.m3u8 
+亮剑 第20集,https://vip.ffzy-play1.com/20230113/51822_d0b9b4f5/2000k/hls/mixed.m3u8 
+亮剑 第21集,https://vip.ffzy-play1.com/20230113/51827_47acc56e/2000k/hls/mixed.m3u8 
+亮剑 第22集,https://vip.ffzy-play1.com/20230113/51826_734d9dca/2000k/hls/mixed.m3u8 
+亮剑 第23集,https://vip.ffzy-play1.com/20230113/51825_b2d2519a/2000k/hls/mixed.m3u8 
+亮剑 第24集,https://vip.ffzy-play1.com/20230113/51830_89f5b706/2000k/hls/mixed.m3u8 
+亮剑 第25集,https://vip.ffzy-play1.com/20230113/51829_ea6338b5/2000k/hls/mixed.m3u8 
+亮剑 第26集,https://vip.ffzy-play1.com/20230113/51828_238a266c/2000k/hls/mixed.m3u8 
+亮剑 第27集,https://vip.ffzy-play1.com/20230113/51833_07a1c600/2000k/hls/mixed.m3u8 
+亮剑 第28集,https://vip.ffzy-play1.com/20230113/51831_be7040f9/2000k/hls/mixed.m3u8 
+亮剑 第29集,https://vip.ffzy-play1.com/20230113/51832_54e2177f/2000k/hls/mixed.m3u8 
+亮剑 第30集,https://vip.ffzy-play1.com/20230113/51835_4bda68e3/2000k/hls/mixed.m3u8 
+
+
+
+
 
 🔶西游记🔶,#genre#
 西游记 第01集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
@@ -1048,91 +1160,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 西游记 第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
 西游记 第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
 西游记 第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
-🔶三国演义🔶,#genre#
-三国演义 第01集,https://vip.lz-cdn6.com/20220821/23321_52c53b68/1000k/hls/mixed.m3u8
-三国演义 第02集,https://vip.lz-cdn6.com/20220821/23322_6fbf3eda/1000k/hls/mixed.m3u8
-三国演义 第03集,https://vip.lz-cdn6.com/20220821/23323_66ade890/1000k/hls/mixed.m3u8
-三国演义 第04集,https://vip.lz-cdn6.com/20220821/23324_340d36b1/1000k/hls/mixed.m3u8
-三国演义 第05集,https://vip.lz-cdn6.com/20220821/23325_5f5f4138/1000k/hls/mixed.m3u8
-三国演义 第06集,https://vip.lz-cdn6.com/20220821/23326_44505a63/1000k/hls/mixed.m3u8
-三国演义 第07集,https://vip.lz-cdn6.com/20220821/23327_367d6ae0/1000k/hls/mixed.m3u8
-三国演义 第08集,https://vip.lz-cdn6.com/20220821/23328_3f514c2f/1000k/hls/mixed.m3u8
-三国演义 第09集,https://vip.lz-cdn6.com/20220821/23329_f66e8501/1000k/hls/mixed.m3u8
-三国演义 第10集,https://vip.lz-cdn6.com/20220821/23330_72051172/1000k/hls/mixed.m3u8
-三国演义 第11集,https://vip.lz-cdn6.com/20220821/23331_63e75cff/1000k/hls/mixed.m3u8
-三国演义 第12集,https://vip.lz-cdn6.com/20220821/23332_639ea65f/1000k/hls/mixed.m3u8
-三国演义 第13集,https://vip.lz-cdn6.com/20220821/23333_4143fadc/1000k/hls/mixed.m3u8
-三国演义 第14集,https://vip.lz-cdn6.com/20220821/23334_c97443ac/1000k/hls/mixed.m3u8
-三国演义 第15集,https://vip.lz-cdn6.com/20220821/23335_c4040249/1000k/hls/mixed.m3u8
-三国演义 第16集,https://vip.lz-cdn6.com/20220821/23336_5becaa7c/1000k/hls/mixed.m3u8
-三国演义 第17集,https://vip.lz-cdn6.com/20220821/23337_972c3cf6/1000k/hls/mixed.m3u8
-三国演义 第18集,https://vip.lz-cdn6.com/20220821/23338_e3032797/1000k/hls/mixed.m3u8
-三国演义 第19集,https://vip.lz-cdn6.com/20220821/23339_9538d502/1000k/hls/mixed.m3u8
-三国演义 第20集,https://vip.lz-cdn6.com/20220821/23340_7de82d33/1000k/hls/mixed.m3u8
-三国演义 第21集,https://vip.lz-cdn6.com/20220821/23341_6b9137d0/1000k/hls/mixed.m3u8
-三国演义 第22集,https://vip.lz-cdn6.com/20220821/23342_c7533e9f/1000k/hls/mixed.m3u8
-三国演义 第23集,https://vip.lz-cdn6.com/20220821/23343_471e5137/1000k/hls/mixed.m3u8
-三国演义 第24集,https://vip.lz-cdn6.com/20220821/23344_7ab106fb/1000k/hls/mixed.m3u8
-三国演义 第25集,https://vip.lz-cdn6.com/20220821/23345_cdfec6ad/1000k/hls/mixed.m3u8
-三国演义 第26集,https://vip.lz-cdn6.com/20220821/23346_8a4cb915/1000k/hls/mixed.m3u8
-三国演义 第27集,https://vip.lz-cdn6.com/20220821/23347_9e19d416/1000k/hls/mixed.m3u8
-三国演义 第28集,https://vip.lz-cdn6.com/20220821/23348_f47241ce/1000k/hls/mixed.m3u8
-三国演义 第29集,https://vip.lz-cdn6.com/20220821/23349_6468251f/1000k/hls/mixed.m3u8
-三国演义 第30集,https://vip.lz-cdn6.com/20220821/23350_b0dd4148/1000k/hls/mixed.m3u8
-三国演义 第31集,https://vip.lz-cdn6.com/20220821/23351_4482ae94/1000k/hls/mixed.m3u8
-三国演义 第32集,https://vip.lz-cdn6.com/20220821/23352_4b0893ae/1000k/hls/mixed.m3u8
-三国演义 第33集,https://vip.lz-cdn6.com/20220821/23353_abd1f1df/1000k/hls/mixed.m3u8
-三国演义 第34集,https://vip.lz-cdn6.com/20220821/23354_f3012540/1000k/hls/mixed.m3u8
-三国演义 第35集,https://vip.lz-cdn6.com/20220821/23355_325973be/1000k/hls/mixed.m3u8
-三国演义 第36集,https://vip.lz-cdn6.com/20220821/23356_108bab0c/1000k/hls/mixed.m3u8
-三国演义 第37集,https://vip.lz-cdn6.com/20220821/23357_2d1e6e3e/1000k/hls/mixed.m3u8
-三国演义 第38集,https://vip.lz-cdn6.com/20220821/23358_abd9b6c8/1000k/hls/mixed.m3u8
-三国演义 第39集,https://vip.lz-cdn6.com/20220821/23359_31a740e2/1000k/hls/mixed.m3u8
-三国演义 第40集,https://vip.lz-cdn6.com/20220821/23360_b4c7eaaf/1000k/hls/mixed.m3u8
-三国演义 第41集,https://vip.lz-cdn6.com/20220821/23361_3cee2c97/1000k/hls/mixed.m3u8
-三国演义 第42集,https://vip.lz-cdn6.com/20220821/23362_e271c1f0/1000k/hls/mixed.m3u8
-三国演义 第43集,https://vip.lz-cdn6.com/20220821/23363_1d506e08/1000k/hls/mixed.m3u8
-三国演义 第44集,https://vip.lz-cdn6.com/20220821/23364_ad064e58/1000k/hls/mixed.m3u8
-三国演义 第45集,https://vip.lz-cdn6.com/20220821/23365_8ffe662d/1000k/hls/mixed.m3u8
-三国演义 第46集,https://vip.lz-cdn6.com/20220821/23366_e8b61041/1000k/hls/mixed.m3u8
-三国演义 第47集,https://vip.lz-cdn6.com/20220821/23367_dd51df94/1000k/hls/mixed.m3u8
-三国演义 第48集,https://vip.lz-cdn6.com/20220821/23368_16662c67/1000k/hls/mixed.m3u8
-三国演义 第49集,https://vip.lz-cdn6.com/20220821/23369_20de999c/1000k/hls/mixed.m3u8
-三国演义 第50集,https://vip.lz-cdn6.com/20220821/23370_479028ff/1000k/hls/mixed.m3u8
-三国演义 第51集,https://vip.lz-cdn6.com/20220821/23371_1499fdbc/1000k/hls/mixed.m3u8
-三国演义 第52集,https://vip.lz-cdn6.com/20220821/23372_8222ff82/1000k/hls/mixed.m3u8
-三国演义 第53集,https://vip.lz-cdn6.com/20220821/23373_3dbf0899/1000k/hls/mixed.m3u8
-三国演义 第54集,https://vip.lz-cdn6.com/20220821/23374_138a0fe3/1000k/hls/mixed.m3u8
-三国演义 第55集,https://vip.lz-cdn6.com/20220821/23375_841be7fd/1000k/hls/mixed.m3u8
-三国演义 第56集,https://vip.lz-cdn6.com/20220821/23376_e72c3062/1000k/hls/mixed.m3u8
-三国演义 第57集,https://vip.lz-cdn6.com/20220821/23377_9c0ba7ec/1000k/hls/mixed.m3u8
-三国演义 第58集,https://vip.lz-cdn6.com/20220821/23378_d06f0645/1000k/hls/mixed.m3u8
-三国演义 第59集,https://vip.lz-cdn6.com/20220821/23379_e7d99be1/1000k/hls/mixed.m3u8
-三国演义 第60集,https://vip.lz-cdn6.com/20220821/23380_02bea9ff/1000k/hls/mixed.m3u8
-三国演义 第61集,https://vip.lz-cdn6.com/20220821/23381_1550585a/1000k/hls/mixed.m3u8
-三国演义 第62集,https://vip.lz-cdn6.com/20220821/23382_40b974b4/1000k/hls/mixed.m3u8
-三国演义 第63集,https://vip.lz-cdn6.com/20220821/23383_c020cc1c/1000k/hls/mixed.m3u8
-三国演义 第64集,https://vip.lz-cdn6.com/20220821/23384_3c1540af/1000k/hls/mixed.m3u8
-三国演义 第65集,https://vip.lz-cdn6.com/20220821/23385_5b0157f2/1000k/hls/mixed.m3u8
-三国演义 第66集,https://vip.lz-cdn6.com/20220821/23386_93bf312f/1000k/hls/mixed.m3u8
-三国演义 第67集,https://vip.lz-cdn6.com/20220821/23387_34c02825/1000k/hls/mixed.m3u8
-三国演义 第68集,https://vip.lz-cdn6.com/20220821/23388_c7afa8e9/1000k/hls/mixed.m3u8
-三国演义 第69集,https://vip.lz-cdn6.com/20220821/23389_386e4778/1000k/hls/mixed.m3u8
-三国演义 第70集,https://vip.lz-cdn6.com/20220821/23390_80ee6472/1000k/hls/mixed.m3u8
-三国演义 第71集,https://vip.lz-cdn6.com/20220821/23391_63d153ed/1000k/hls/mixed.m3u8
-三国演义 第72集,https://vip.lz-cdn6.com/20220821/23392_99047c5a/1000k/hls/mixed.m3u8
-三国演义 第73集,https://vip.lz-cdn6.com/20220821/23393_7f449fb7/1000k/hls/mixed.m3u8
-三国演义 第74集,https://vip.lz-cdn6.com/20220821/23394_50478683/1000k/hls/mixed.m3u8
-三国演义 第75集,https://vip.lz-cdn6.com/20220821/23395_e457e305/1000k/hls/mixed.m3u8
-三国演义 第76集,https://vip.lz-cdn6.com/20220821/23396_391ceca5/1000k/hls/mixed.m3u8
-三国演义 第77集,https://vip.lz-cdn6.com/20220821/23397_4cab49ac/1000k/hls/mixed.m3u8
-三国演义 第78集,https://vip.lz-cdn6.com/20220821/23398_78af5ed8/1000k/hls/mixed.m3u8
-三国演义 第79集,https://vip.lz-cdn6.com/20220821/23399_cadbe2b9/1000k/hls/mixed.m3u8
-三国演义 第80集,https://vip.lz-cdn6.com/20220821/23400_e6a65bb7/1000k/hls/mixed.m3u8
-三国演义 第81集,https://vip.lz-cdn6.com/20220821/23401_d8f3896d/1000k/hls/mixed.m3u8
-三国演义 第82集,https://vip.lz-cdn6.com/20220821/23402_90bbfa54/1000k/hls/mixed.m3u8
-三国演义 第83集,https://vip.lz-cdn6.com/20220821/23403_8f057aac/1000k/hls/mixed.m3u8
-三国演义 第84集,https://vip.lz-cdn6.com/20220821/23404_8d858871/1000k/hls/mixed.m3u8
+
 
 
 🔶红楼梦🔶,#genre#
@@ -1220,6 +1248,96 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 水浒传 第41集,https://vip1.lz-cdn6.com/20220713/18418_68463e1d/1000k/hls/mixed.m3u8
 水浒传 第42集,https://vip1.lz-cdn6.com/20220713/18419_b2d9cc9d/1000k/hls/mixed.m3u8
 水浒传 第43集,https://vip1.lz-cdn6.com/20220713/18420_26f23ac0/1000k/hls/mixed.m3u8
+
+
+
+
+🔶三国演义🔶,#genre#
+三国演义 第01集,https://vip.lz-cdn6.com/20220821/23321_52c53b68/1000k/hls/mixed.m3u8
+三国演义 第02集,https://vip.lz-cdn6.com/20220821/23322_6fbf3eda/1000k/hls/mixed.m3u8
+三国演义 第03集,https://vip.lz-cdn6.com/20220821/23323_66ade890/1000k/hls/mixed.m3u8
+三国演义 第04集,https://vip.lz-cdn6.com/20220821/23324_340d36b1/1000k/hls/mixed.m3u8
+三国演义 第05集,https://vip.lz-cdn6.com/20220821/23325_5f5f4138/1000k/hls/mixed.m3u8
+三国演义 第06集,https://vip.lz-cdn6.com/20220821/23326_44505a63/1000k/hls/mixed.m3u8
+三国演义 第07集,https://vip.lz-cdn6.com/20220821/23327_367d6ae0/1000k/hls/mixed.m3u8
+三国演义 第08集,https://vip.lz-cdn6.com/20220821/23328_3f514c2f/1000k/hls/mixed.m3u8
+三国演义 第09集,https://vip.lz-cdn6.com/20220821/23329_f66e8501/1000k/hls/mixed.m3u8
+三国演义 第10集,https://vip.lz-cdn6.com/20220821/23330_72051172/1000k/hls/mixed.m3u8
+三国演义 第11集,https://vip.lz-cdn6.com/20220821/23331_63e75cff/1000k/hls/mixed.m3u8
+三国演义 第12集,https://vip.lz-cdn6.com/20220821/23332_639ea65f/1000k/hls/mixed.m3u8
+三国演义 第13集,https://vip.lz-cdn6.com/20220821/23333_4143fadc/1000k/hls/mixed.m3u8
+三国演义 第14集,https://vip.lz-cdn6.com/20220821/23334_c97443ac/1000k/hls/mixed.m3u8
+三国演义 第15集,https://vip.lz-cdn6.com/20220821/23335_c4040249/1000k/hls/mixed.m3u8
+三国演义 第16集,https://vip.lz-cdn6.com/20220821/23336_5becaa7c/1000k/hls/mixed.m3u8
+三国演义 第17集,https://vip.lz-cdn6.com/20220821/23337_972c3cf6/1000k/hls/mixed.m3u8
+三国演义 第18集,https://vip.lz-cdn6.com/20220821/23338_e3032797/1000k/hls/mixed.m3u8
+三国演义 第19集,https://vip.lz-cdn6.com/20220821/23339_9538d502/1000k/hls/mixed.m3u8
+三国演义 第20集,https://vip.lz-cdn6.com/20220821/23340_7de82d33/1000k/hls/mixed.m3u8
+三国演义 第21集,https://vip.lz-cdn6.com/20220821/23341_6b9137d0/1000k/hls/mixed.m3u8
+三国演义 第22集,https://vip.lz-cdn6.com/20220821/23342_c7533e9f/1000k/hls/mixed.m3u8
+三国演义 第23集,https://vip.lz-cdn6.com/20220821/23343_471e5137/1000k/hls/mixed.m3u8
+三国演义 第24集,https://vip.lz-cdn6.com/20220821/23344_7ab106fb/1000k/hls/mixed.m3u8
+三国演义 第25集,https://vip.lz-cdn6.com/20220821/23345_cdfec6ad/1000k/hls/mixed.m3u8
+三国演义 第26集,https://vip.lz-cdn6.com/20220821/23346_8a4cb915/1000k/hls/mixed.m3u8
+三国演义 第27集,https://vip.lz-cdn6.com/20220821/23347_9e19d416/1000k/hls/mixed.m3u8
+三国演义 第28集,https://vip.lz-cdn6.com/20220821/23348_f47241ce/1000k/hls/mixed.m3u8
+三国演义 第29集,https://vip.lz-cdn6.com/20220821/23349_6468251f/1000k/hls/mixed.m3u8
+三国演义 第30集,https://vip.lz-cdn6.com/20220821/23350_b0dd4148/1000k/hls/mixed.m3u8
+三国演义 第31集,https://vip.lz-cdn6.com/20220821/23351_4482ae94/1000k/hls/mixed.m3u8
+三国演义 第32集,https://vip.lz-cdn6.com/20220821/23352_4b0893ae/1000k/hls/mixed.m3u8
+三国演义 第33集,https://vip.lz-cdn6.com/20220821/23353_abd1f1df/1000k/hls/mixed.m3u8
+三国演义 第34集,https://vip.lz-cdn6.com/20220821/23354_f3012540/1000k/hls/mixed.m3u8
+三国演义 第35集,https://vip.lz-cdn6.com/20220821/23355_325973be/1000k/hls/mixed.m3u8
+三国演义 第36集,https://vip.lz-cdn6.com/20220821/23356_108bab0c/1000k/hls/mixed.m3u8
+三国演义 第37集,https://vip.lz-cdn6.com/20220821/23357_2d1e6e3e/1000k/hls/mixed.m3u8
+三国演义 第38集,https://vip.lz-cdn6.com/20220821/23358_abd9b6c8/1000k/hls/mixed.m3u8
+三国演义 第39集,https://vip.lz-cdn6.com/20220821/23359_31a740e2/1000k/hls/mixed.m3u8
+三国演义 第40集,https://vip.lz-cdn6.com/20220821/23360_b4c7eaaf/1000k/hls/mixed.m3u8
+三国演义 第41集,https://vip.lz-cdn6.com/20220821/23361_3cee2c97/1000k/hls/mixed.m3u8
+三国演义 第42集,https://vip.lz-cdn6.com/20220821/23362_e271c1f0/1000k/hls/mixed.m3u8
+三国演义 第43集,https://vip.lz-cdn6.com/20220821/23363_1d506e08/1000k/hls/mixed.m3u8
+三国演义 第44集,https://vip.lz-cdn6.com/20220821/23364_ad064e58/1000k/hls/mixed.m3u8
+三国演义 第45集,https://vip.lz-cdn6.com/20220821/23365_8ffe662d/1000k/hls/mixed.m3u8
+三国演义 第46集,https://vip.lz-cdn6.com/20220821/23366_e8b61041/1000k/hls/mixed.m3u8
+三国演义 第47集,https://vip.lz-cdn6.com/20220821/23367_dd51df94/1000k/hls/mixed.m3u8
+三国演义 第48集,https://vip.lz-cdn6.com/20220821/23368_16662c67/1000k/hls/mixed.m3u8
+三国演义 第49集,https://vip.lz-cdn6.com/20220821/23369_20de999c/1000k/hls/mixed.m3u8
+三国演义 第50集,https://vip.lz-cdn6.com/20220821/23370_479028ff/1000k/hls/mixed.m3u8
+三国演义 第51集,https://vip.lz-cdn6.com/20220821/23371_1499fdbc/1000k/hls/mixed.m3u8
+三国演义 第52集,https://vip.lz-cdn6.com/20220821/23372_8222ff82/1000k/hls/mixed.m3u8
+三国演义 第53集,https://vip.lz-cdn6.com/20220821/23373_3dbf0899/1000k/hls/mixed.m3u8
+三国演义 第54集,https://vip.lz-cdn6.com/20220821/23374_138a0fe3/1000k/hls/mixed.m3u8
+三国演义 第55集,https://vip.lz-cdn6.com/20220821/23375_841be7fd/1000k/hls/mixed.m3u8
+三国演义 第56集,https://vip.lz-cdn6.com/20220821/23376_e72c3062/1000k/hls/mixed.m3u8
+三国演义 第57集,https://vip.lz-cdn6.com/20220821/23377_9c0ba7ec/1000k/hls/mixed.m3u8
+三国演义 第58集,https://vip.lz-cdn6.com/20220821/23378_d06f0645/1000k/hls/mixed.m3u8
+三国演义 第59集,https://vip.lz-cdn6.com/20220821/23379_e7d99be1/1000k/hls/mixed.m3u8
+三国演义 第60集,https://vip.lz-cdn6.com/20220821/23380_02bea9ff/1000k/hls/mixed.m3u8
+三国演义 第61集,https://vip.lz-cdn6.com/20220821/23381_1550585a/1000k/hls/mixed.m3u8
+三国演义 第62集,https://vip.lz-cdn6.com/20220821/23382_40b974b4/1000k/hls/mixed.m3u8
+三国演义 第63集,https://vip.lz-cdn6.com/20220821/23383_c020cc1c/1000k/hls/mixed.m3u8
+三国演义 第64集,https://vip.lz-cdn6.com/20220821/23384_3c1540af/1000k/hls/mixed.m3u8
+三国演义 第65集,https://vip.lz-cdn6.com/20220821/23385_5b0157f2/1000k/hls/mixed.m3u8
+三国演义 第66集,https://vip.lz-cdn6.com/20220821/23386_93bf312f/1000k/hls/mixed.m3u8
+三国演义 第67集,https://vip.lz-cdn6.com/20220821/23387_34c02825/1000k/hls/mixed.m3u8
+三国演义 第68集,https://vip.lz-cdn6.com/20220821/23388_c7afa8e9/1000k/hls/mixed.m3u8
+三国演义 第69集,https://vip.lz-cdn6.com/20220821/23389_386e4778/1000k/hls/mixed.m3u8
+三国演义 第70集,https://vip.lz-cdn6.com/20220821/23390_80ee6472/1000k/hls/mixed.m3u8
+三国演义 第71集,https://vip.lz-cdn6.com/20220821/23391_63d153ed/1000k/hls/mixed.m3u8
+三国演义 第72集,https://vip.lz-cdn6.com/20220821/23392_99047c5a/1000k/hls/mixed.m3u8
+三国演义 第73集,https://vip.lz-cdn6.com/20220821/23393_7f449fb7/1000k/hls/mixed.m3u8
+三国演义 第74集,https://vip.lz-cdn6.com/20220821/23394_50478683/1000k/hls/mixed.m3u8
+三国演义 第75集,https://vip.lz-cdn6.com/20220821/23395_e457e305/1000k/hls/mixed.m3u8
+三国演义 第76集,https://vip.lz-cdn6.com/20220821/23396_391ceca5/1000k/hls/mixed.m3u8
+三国演义 第77集,https://vip.lz-cdn6.com/20220821/23397_4cab49ac/1000k/hls/mixed.m3u8
+三国演义 第78集,https://vip.lz-cdn6.com/20220821/23398_78af5ed8/1000k/hls/mixed.m3u8
+三国演义 第79集,https://vip.lz-cdn6.com/20220821/23399_cadbe2b9/1000k/hls/mixed.m3u8
+三国演义 第80集,https://vip.lz-cdn6.com/20220821/23400_e6a65bb7/1000k/hls/mixed.m3u8
+三国演义 第81集,https://vip.lz-cdn6.com/20220821/23401_d8f3896d/1000k/hls/mixed.m3u8
+三国演义 第82集,https://vip.lz-cdn6.com/20220821/23402_90bbfa54/1000k/hls/mixed.m3u8
+三国演义 第83集,https://vip.lz-cdn6.com/20220821/23403_8f057aac/1000k/hls/mixed.m3u8
+三国演义 第84集,https://vip.lz-cdn6.com/20220821/23404_8d858871/1000k/hls/mixed.m3u8
+
 
 
 
@@ -1601,6 +1719,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 
 
 测试频道_1024,#genre#
+
 
 
 
